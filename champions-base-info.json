@@ -1,0 +1,2737 @@
+{
+    "Abbess": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Altan": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Angar": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Arbiter": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Astralith": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Bad-el-Kazar": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Baron": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Basileus Roanas": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Belanor": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Big ‘Un": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Black Knight": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Blind Seer": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Bloodgorged": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Brakus the Shifter": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Bystophus": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Candraphon": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Cillian the Lucky": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Cruetraxa": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Crypt-King Graal": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Cupidus": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Dracomorph": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Drexthar Bloodtwin": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Duchess Lilitu": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "support"
+    },
+    "Elder Skarg": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Elenaril": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Errol": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Foli": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Fu-Shan": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Ghostborn": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Grohak the Bloodied": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Gurgoh the Augur": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Hakkorhn Smashlord": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Harvest Jack": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "hp"
+    },
+    "Hegemon": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Ignatius": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Inithwe Bloodtwin": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Ithos": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Khoronar": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Krisk the Ageless": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Lanakis the Chosen": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Longbeard": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Lord Champfort": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Lord Shazar": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Lugan the Steadfast": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Lyssandra": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Ma’Shalled": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Martyr": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Maulie Tankard": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "support"
+    },
+    "Minaya": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Mortu-Macaab": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Mountain King": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Nethril": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Norog": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Prince Kymar": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "support"
+    },
+    "Queen Eva": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Rae": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Raglin": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Rhazin Scarhide": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Richtoff the Bold": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Robar": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Roshcard the Tower": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Rotos the Lost Groom": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Royal Huntsman": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Scyl of the Drakes": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Septimus": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Sethallia": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Shamrock": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "support"
+    },
+    "Shirimani": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Siphi the Lost Bride": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Sir Nicholas": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Skartorsis": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Soulless": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Suzerain Katonn": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Teela Goremane": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "support"
+    },
+    "Tomb Lord": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Tormin the Cold": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Trunda Giltmallet": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Turvold": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Tyrant Ixlimor": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Valkyrie": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Venus": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Vizier Ovelis": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "War Mother": {
+        "rarity": "legendary",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Warchief": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Warlord": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Orcs",
+        "role": "support"
+    },
+    "Wurlim Frostking": {
+        "rarity": "legendary",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Yannica": {
+        "rarity": "legendary",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Zavia": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Adriel": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Aina": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Alika": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Alure": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Aothar": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Atur": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Azure": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Baerdal Fellhammer": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Basher": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Basilisk": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Battlesage": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Bloodfeather": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Bonekeeper": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Broadmaw": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Lizardmen",
+        "role": "support"
+    },
+    "Bushi": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Cagebreaker": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Canoness": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Captain Temila": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "hp"
+    },
+    "Cardinal": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Catacomb Councilor": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Corpse Collector": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Crimson Helm": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "defense"
+    },
+    "Crypt Witch": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Dark Athel": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Dark Elhain": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Deathless": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Defiled Sinner": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Delver": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Doompriest": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Drake": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Erinyes": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Excruciator": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Exemplar": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Faceless": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Fang Cleric": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Fenax": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Flesh-Tearer": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "support"
+    },
+    "Frostbringer": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Gala Longbraids": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Galkut": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Golden Reaper": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Gorgorab": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Grimskin": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Grizzled Jarl": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Hellgazer": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Hexia": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "High Khatun": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Hope": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Hordin": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Husk": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "hp"
+    },
+    "Infernal Baroness": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Jarang": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Jareg": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "hp"
+    },
+    "Jinglehunter": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Jizoh": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Jotun": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Juliana": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Kallia": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Karam": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Knight-Errant": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Kytis": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Lady Etessa": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Lich": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Lightsworn": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Lordly Legionary": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Lua": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Luria": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Luthiea": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Madame Serris": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Maeve": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Maneater": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Ogryn Tribes",
+        "role": "hp"
+    },
+    "Marksman": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Mausoleum Mage": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Miscreated Monster": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "hp"
+    },
+    "Missionary": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Mistress of Hymns": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Nazana": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Necrohunter": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Oathbound": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Occult Brawler": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "hp"
+    },
+    "Peydma": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Pitiless One": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Psylar": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Rearguard Sergeant": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Reinbeast": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Relickeeper": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Ripper": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Rock Breaker": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Romero": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Rowan": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Royal Guard": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Sandlashed Survivor": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "defense"
+    },
+    "Seeker": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Seer": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Orcs",
+        "role": "support"
+    },
+    "Seneschal": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Sepulcher Sentinel": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Shaman": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "support"
+    },
+    "Shatterbones": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Sikara": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Sinesha": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Skullcrown": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Skullcrusher": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Skytouched Shaman": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Snorting Thug": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Souldrinker": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Spider": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Stag Knight": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Steelskull": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Skinwalkers",
+        "role": "support"
+    },
+    "Suwai Firstborn": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Tallia": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Taurus": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Tayrel": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "defense"
+    },
+    "Terrorbeast": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Teshada": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Thenasil": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Torturehelm": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Towering Titan": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Ogryn Tribes",
+        "role": "hp"
+    },
+    "Ultimate Galek": {
+        "rarity": "epic",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Umbral Enchantress": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Ursine Icecrusher": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Ursine Ironhide": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Valla": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Vergis": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "defense"
+    },
+    "Vrask": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Warcaster": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Warden": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "defense"
+    },
+    "Whisper": {
+        "rarity": "epic",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Woad-Painted": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Yaga the Insatiable": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Zargala": {
+        "rarity": "epic",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Zelotah": {
+        "rarity": "epic",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Acolyte": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Adjudicator": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Amarantine Skeleton": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Anointed": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Apothecary": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Arbalester": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Arcanist": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Athel": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Avenger": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Banshee": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Beast Wrestler": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Bellower": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Ogryn Tribes",
+        "role": "support"
+    },
+    "Berserker": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Bloodbraid": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Bloodhorn": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Bloodpainter": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Bogwalker": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Bombardier": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Bone Knight": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Bulwark": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Cataphract": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Centurion": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Channeler": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Skinwalkers",
+        "role": "support"
+    },
+    "Chaplain": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Chevalier": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Chopper": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Coffin Smasher": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "hp"
+    },
+    "Coldheart": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Confessor": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Conquerer": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Corpulent Cadaver": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "hp"
+    },
+    "Courtier": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Crimson Slayer": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Crossbowman": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Cudgeler": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Daywalker": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "hp"
+    },
+    "Deathchanter": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Diabolist": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "support"
+    },
+    "Doomscreech": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "hp"
+    },
+    "Elder": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Elhain": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Eviscerator": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Executioner": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "defense"
+    },
+    "Fellhound": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Fencer": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Flesheater": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "support"
+    },
+    "Fleshmonger": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "attack"
+    },
+    "Flinger": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Fortress Goon": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Frozen Banshee": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Furystoker": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "support"
+    },
+    "Galek": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Gator": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "support"
+    },
+    "Ghoulish Ranger": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Gladiator": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Gnarlhorn": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Goremask": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Grandmaster": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Grappler": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Gravechill Killer": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Graybeard": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "defense"
+    },
+    "Grinner": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Grumbler": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "hp"
+    },
+    "Guardian": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "hp"
+    },
+    "Halberdier": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Harrier": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Haruspex": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Lizardmen",
+        "role": "support"
+    },
+    "Harvester": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Hatchet Slinger": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Heiress": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Hellfang": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Hexweaver": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Hill Nomad": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Hollow": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Honor Guard": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Hospitaller": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Hound Spawn": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Huntress": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Hurler": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Hyria": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Ifrit": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Interceptor": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "defense"
+    },
+    "Ironclad": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Judge": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Judicator": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Justiciar": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Kael": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Lamellar": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Madman": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Magister": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Magmablood": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Magus": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Maiden": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Malbranche": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Marked": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Marquess": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Marquis": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Master Butcher": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "support"
+    },
+    "Metalshaper": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "support"
+    },
+    "Mother Superior": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Muckstalker": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "hp"
+    },
+    "Myrmidon": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Mystic Hand": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Ogryn Jailer": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Ox": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Pain Keeper": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "hp"
+    },
+    "Painsmith": {
+        "rarity": "rare",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Paragon": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "defense"
+    },
+    "Penitent": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Perforator": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Pounder": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Preserver": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Ragemonger": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Raider": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Reliquary Tender": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "High Elves",
+        "role": "support"
+    },
+    "Renegade": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Retainer": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Dark Elves",
+        "role": "defense"
+    },
+    "Rocktooth": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Rotting Mage": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "support"
+    },
+    "Runic Warder": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "hp"
+    },
+    "Seducer": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Sentinel": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Siegebreaker": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Skink": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Skirmisher": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Skullsworn": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Slasher": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Slayer": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Slitherbrute": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Sorceress": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Soulbond Bowyer": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Spikehead": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Spirithost": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "support"
+    },
+    "Steadfast Marshal": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Steel Bowyer": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Stitched Beast": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Stoneskin": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Ogryn Tribes",
+        "role": "hp"
+    },
+    "Stout Axeman": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "hp"
+    },
+    "Templar": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Temptress": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Theurgist": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Tormentor": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Totem": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "support"
+    },
+    "Treefeller": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Twinclaw Disciple": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Valerie": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Vanguard": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Veteran": {
+        "rarity": "rare",
+        "affinity": "void",
+        "faction": "Orcs",
+        "role": "defense"
+    },
+    "Wanderer": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Warmaiden": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Warpriest": {
+        "rarity": "rare",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Witness": {
+        "rarity": "rare",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Wretch": {
+        "rarity": "rare",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Admonitor": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "hp"
+    },
+    "Archer": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Aristocrat": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Armiger": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Battle Sister": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Brute": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Chemist": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Commander": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Crusader": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Crusher": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Cultist": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Dead Crusader": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Dervish": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Dhampir": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Duelist": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Elfguard": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Fireblade": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Frontline Warrior": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Frostskin": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Ogryn Tribes",
+        "role": "support"
+    },
+    "Hardscale": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Head Taker": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Heartpiercer": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Herald": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Knight Revenant",
+        "role": "support"
+    },
+    "Hungerer": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "hp"
+    },
+    "Incubus": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "attack"
+    },
+    "Intercessor": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Jaeger": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "High Elves",
+        "role": "attack"
+    },
+    "Lemure": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Line Infantry": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Dwarves",
+        "role": "defense"
+    },
+    "Militia": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Oldbeard": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Ogryn Tribes",
+        "role": "defense"
+    },
+    "Outlander": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Outlaw Monk": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Outrider": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Pilgrim": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "support"
+    },
+    "Pit Cur": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Demonspawn",
+        "role": "hp"
+    },
+    "Pit Fighter": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "hp"
+    },
+    "Pitspawn": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "defense"
+    },
+    "Redeemer": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Ritualist": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Barbarians",
+        "role": "attack"
+    },
+    "Satyr": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Skinwalkers",
+        "role": "hp"
+    },
+    "Saurus": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Sergeant": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Sharpshooter": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Shieldguard": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Skellag": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "defense"
+    },
+    "Skinner": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "attack"
+    },
+    "Skullsquire": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Slicer": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Sniper": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Spiritwalker": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Barbarians",
+        "role": "support"
+    },
+    "Squire": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Stalker": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Lizardmen",
+        "role": "hp"
+    },
+    "Stalwart": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Thrasher": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Ogryn Tribes",
+        "role": "attack"
+    },
+    "Throatcutter": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Tracker": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Orcs",
+        "role": "attack"
+    },
+    "Tunnel Steward": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Dwarves",
+        "role": "attack"
+    },
+    "Vigilante": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Vilespawn": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Demonspawn",
+        "role": "support"
+    },
+    "Vulpine": {
+        "rarity": "uncommon",
+        "affinity": "force",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Warchanter": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "hp"
+    },
+    "Windtalker": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Skinwalkers",
+        "role": "support"
+    },
+    "Word Bearer": {
+        "rarity": "uncommon",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "support"
+    },
+    "Zephyr Sniper": {
+        "rarity": "uncommon",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Axeman": {
+        "rarity": "common",
+        "affinity": "force",
+        "faction": "Banner Lords",
+        "role": "hp"
+    },
+    "Bandit": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Bully": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "Barbarians",
+        "role": "defense"
+    },
+    "Death Hound": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Deathknight": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Undead Hordes",
+        "role": "hp"
+    },
+    "Hellhound": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "Undead Hordes",
+        "role": "attack"
+    },
+    "Knecht": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "defense"
+    },
+    "Lurker": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Magekiller": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Novitiate": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Pikeman": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "defense"
+    },
+    "Preacher": {
+        "rarity": "common",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "hp"
+    },
+    "Ranger": {
+        "rarity": "common",
+        "affinity": "force",
+        "faction": "Dark Elves",
+        "role": "attack"
+    },
+    "Sister Militant": {
+        "rarity": "common",
+        "affinity": "force",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    },
+    "Swordsman": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Banner Lords",
+        "role": "attack"
+    },
+    "Thrall": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Knight Revenant",
+        "role": "attack"
+    },
+    "Troglodyte": {
+        "rarity": "common",
+        "affinity": "spirit",
+        "faction": "Lizardmen",
+        "role": "defense"
+    },
+    "Warboy": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "Orcs",
+        "role": "defense"
+    },
+    "Yeoman": {
+        "rarity": "common",
+        "affinity": "magic",
+        "faction": "The Sacred Order",
+        "role": "attack"
+    }
+}

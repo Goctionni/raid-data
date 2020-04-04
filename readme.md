@@ -9,3 +9,11 @@ If you're interested in helping in a greater capacity, please get in touch. I wo
 * [Champions by affinity](/champions-by-affinity.json)
 * [Champions by faction](/champions-by-faction.json)
 * [Champions by role](/champions-by-role.json)
+* [Champions base-info](/champions-base-info.json)
+
+# Credits
+
+The data available in this repository has been sourced from:
+
+* (Game) [Raid: Shadow Legends](https://plarium.com/en/mobile-games/raid-shadow-legends/)
+* (Website) [Ayumilove](https://ayumilove.net/raid-shadow-legends-guide/)

@@ -17,3 +17,9 @@ The data available in this repository has been sourced from:
 
 * (Game) [Raid: Shadow Legends](https://plarium.com/en/mobile-games/raid-shadow-legends/)
 * (Website) [Ayumilove](https://ayumilove.net/raid-shadow-legends-guide/)
+
+# Todo
+
+* Add champion icons
+* Figure out data-format to represent skills
+* Add champion detail-files with base-info, stats, abilities, books/skill improvements

@@ -3,2735 +3,3191 @@
         "rarity": "legendary",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Abbess.png"
     },
     "Altan": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Altan.png"
     },
     "Angar": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Angar.png"
     },
     "Arbiter": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Arbiter.png"
     },
     "Astralith": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Astralith.png"
     },
     "Bad-el-Kazar": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bad_el_Kazar.png"
     },
     "Baron": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Baron.png"
     },
     "Basileus Roanas": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Basileus_Roanas.png"
     },
     "Belanor": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Belanor.png"
     },
     "Big ‘Un": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Big_Un.png"
     },
     "Black Knight": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Black_Knight.png"
     },
     "Blind Seer": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Blind_Seer.png"
     },
     "Bloodgorged": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodgorged.png"
     },
     "Brakus the Shifter": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Brakus_the_Shifter.png"
     },
     "Bystophus": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bystophus.png"
     },
     "Candraphon": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Candraphon.png"
     },
     "Cillian the Lucky": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cillian_the_Lucky.png"
     },
     "Cruetraxa": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cruetraxa.png"
     },
     "Crypt-King Graal": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crypt_King_Graal.png"
     },
     "Cupidus": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cupidus.png"
     },
     "Dracomorph": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dracomorph.png"
     },
     "Drexthar Bloodtwin": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Drexthar_Bloodtwin.png"
     },
     "Duchess Lilitu": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Duchess_Lilitu.png"
     },
     "Elder Skarg": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elder_Skarg.png"
     },
     "Elenaril": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elenaril.png"
     },
     "Errol": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Errol.png"
     },
     "Foli": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Foli.png"
     },
     "Fu-Shan": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fu_Shan.png"
     },
     "Ghostborn": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ghostborn.png"
     },
     "Grohak the Bloodied": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grohak_the_Bloodied.png"
     },
     "Gurgoh the Augur": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gurgoh_the_Augur.png"
     },
     "Hakkorhn Smashlord": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hakkorhn_Smashlord.png"
     },
     "Harvest Jack": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Harvest_Jack.png"
     },
     "Hegemon": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hegemon.png"
     },
     "Ignatius": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ignatius.png"
     },
     "Inithwe Bloodtwin": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Inithwe_Bloodtwin.png"
     },
     "Ithos": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ithos.png"
     },
     "Khoronar": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Khoronar.png"
     },
     "Krisk the Ageless": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Krisk_the_Ageless.png"
     },
     "Lanakis the Chosen": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lanakis_the_Chosen.png"
     },
     "Longbeard": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Longbeard.png"
     },
     "Lord Champfort": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lord_Champfort.png"
     },
     "Lord Shazar": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lord_Shazar.png"
     },
     "Lugan the Steadfast": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lugan_the_Steadfast.png"
     },
     "Lyssandra": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lyssandra.png"
     },
     "Ma’Shalled": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/MaShalled.png"
     },
     "Martyr": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Martyr.png"
     },
     "Maulie Tankard": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maulie_Tankard.png"
     },
     "Minaya": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Minaya.png"
     },
     "Mortu-Macaab": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mortu_Macaab.png"
     },
     "Mountain King": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mountain_King.png"
     },
     "Nethril": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Nethril.png"
     },
     "Norog": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Norog.png"
     },
     "Prince Kymar": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Prince_Kymar.png"
     },
     "Queen Eva": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Queen_Eva.png"
     },
     "Rae": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rae.png"
     },
     "Raglin": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Raglin.png"
     },
     "Rhazin Scarhide": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rhazin_Scarhide.png"
     },
     "Richtoff the Bold": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Richtoff_the_Bold.png"
     },
     "Robar": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Robar.png"
     },
     "Roshcard the Tower": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Roshcard_the_Tower.png"
     },
     "Rotos the Lost Groom": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rotos_the_Lost_Groom.png"
     },
     "Royal Huntsman": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Royal_Huntsman.png"
     },
     "Scyl of the Drakes": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Scyl_of_the_Drakes.png"
     },
     "Septimus": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Septimus.png"
     },
     "Sethallia": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sethallia.png"
     },
     "Shamrock": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shamrock.png"
     },
     "Shirimani": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shirimani.png"
     },
     "Siphi the Lost Bride": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Siphi_the_Lost_Bride.png"
     },
     "Sir Nicholas": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sir_Nicholas.png"
     },
     "Skartorsis": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skartorsis.png"
     },
     "Soulless": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Soulless.png"
     },
     "Suzerain Katonn": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Suzerain_Katonn.png"
     },
     "Teela Goremane": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Teela_Goremane.png"
     },
     "Tomb Lord": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tomb_Lord.png"
     },
     "Tormin the Cold": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tormin_the_Cold.png"
     },
     "Trunda Giltmallet": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Trunda_Giltmallet.png"
     },
     "Turvold": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Turvold.png"
     },
     "Tyrant Ixlimor": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tyrant_Ixlimor.png"
     },
     "Valkyrie": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Valkyrie.png"
     },
     "Venus": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Venus.png"
     },
     "Vizier Ovelis": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vizier_Ovelis.png"
     },
     "War Mother": {
         "rarity": "legendary",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/War_Mother.png"
     },
     "Warchief": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warchief.png"
     },
     "Warlord": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Orcs",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warlord.png"
     },
     "Wurlim Frostking": {
         "rarity": "legendary",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Wurlim_Frostking.png"
     },
     "Yannica": {
         "rarity": "legendary",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Yannica.png"
     },
     "Zavia": {
         "rarity": "legendary",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Zavia.png"
     },
     "Adriel": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Adriel.png"
     },
     "Aina": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Aina.png"
     },
     "Alika": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Alika.png"
     },
     "Alure": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Alure.png"
     },
     "Aothar": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Aothar.png"
     },
     "Atur": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Atur.png"
     },
     "Azure": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Azure.png"
     },
     "Baerdal Fellhammer": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Baerdal_Fellhammer.png"
     },
     "Basher": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Basher.png"
     },
     "Basilisk": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Basilisk.png"
     },
     "Battlesage": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Battlesage.png"
     },
     "Bloodfeather": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodfeather.png"
     },
     "Bonekeeper": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bonekeeper.png"
     },
     "Broadmaw": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Lizardmen",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Broadmaw.png"
     },
     "Bushi": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bushi.png"
     },
     "Cagebreaker": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cagebreaker.png"
     },
     "Canoness": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Canoness.png"
     },
     "Captain Temila": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Captain_Temila.png"
     },
     "Cardinal": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cardinal.png"
     },
     "Catacomb Councilor": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Catacomb_Councilor.png"
     },
     "Corpse Collector": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Corpse_Collector.png"
     },
     "Crimson Helm": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crimson_Helm.png"
     },
     "Crypt Witch": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crypt_Witch.png"
     },
     "Dark Athel": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dark_Athel.png"
     },
     "Dark Elhain": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dark_Elhain.png"
     },
     "Deathless": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Deathless.png"
     },
     "Defiled Sinner": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Defiled_Sinner.png"
     },
     "Delver": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Delver.png"
     },
     "Doompriest": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Doompriest.png"
     },
     "Drake": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Drake.png"
     },
     "Erinyes": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Erinyes.png"
     },
     "Excruciator": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Excruciator.png"
     },
     "Exemplar": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Exemplar.png"
     },
     "Faceless": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Faceless.png"
     },
     "Fang Cleric": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fang_Cleric.png"
     },
     "Fenax": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fenax.png"
     },
     "Flesh-Tearer": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Flesh_Tearer.png"
     },
     "Frostbringer": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Frostbringer.png"
     },
     "Gala Longbraids": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gala_Longbraids.png"
     },
     "Galkut": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Galkut.png"
     },
     "Golden Reaper": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Golden_Reaper.png"
     },
     "Gorgorab": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gorgorab.png"
     },
     "Grimskin": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grimskin.png"
     },
     "Grizzled Jarl": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grizzled_Jarl.png"
     },
     "Hellgazer": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hellgazer.png"
     },
     "Hexia": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hexia.png"
     },
     "High Khatun": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/High_Khatun.png"
     },
     "Hope": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hope.png"
     },
     "Hordin": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hordin.png"
     },
     "Husk": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Husk.png"
     },
     "Infernal Baroness": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Infernal_Baroness.png"
     },
     "Jarang": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jarang.png"
     },
     "Jareg": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jareg.png"
     },
     "Jinglehunter": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jinglehunter.png"
     },
     "Jizoh": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jizoh.png"
     },
     "Jotun": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jotun.png"
     },
     "Juliana": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Juliana.png"
     },
     "Kallia": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kallia.png"
     },
     "Karam": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Karam.png"
     },
     "Knight-Errant": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Knight_Errant.png"
     },
     "Kytis": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kytis.png"
     },
     "Lady Etessa": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lady_Etessa.png"
     },
     "Lich": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lich.png"
     },
     "Lightsworn": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lightsworn.png"
     },
     "Lordly Legionary": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lordly_Legionary.png"
     },
     "Lua": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lua.png"
     },
     "Luria": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Luria.png"
     },
     "Luthiea": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Luthiea.png"
     },
     "Madame Serris": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Madame_Serris.png"
     },
     "Maeve": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maeve.png"
     },
     "Maneater": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Ogryn Tribes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maneater.png"
     },
     "Marksman": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Marksman.png"
     },
     "Mausoleum Mage": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mausoleum_Mage.png"
     },
     "Miscreated Monster": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Miscreated_Monster.png"
     },
     "Missionary": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Missionary.png"
     },
     "Mistress of Hymns": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mistress_of_Hymns.png"
     },
     "Nazana": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Nazana.png"
     },
     "Necrohunter": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Necrohunter.png"
     },
     "Oathbound": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Oathbound.png"
     },
     "Occult Brawler": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Occult_Brawler.png"
     },
     "Peydma": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Peydma.png"
     },
     "Pitiless One": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pitiless_One.png"
     },
     "Psylar": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Psylar.png"
     },
     "Rearguard Sergeant": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rearguard_Sergeant.png"
     },
     "Reinbeast": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Reinbeast.png"
     },
     "Relickeeper": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Relickeeper.png"
     },
     "Ripper": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ripper.png"
     },
     "Rock Breaker": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rock_Breaker.png"
     },
     "Romero": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Romero.png"
     },
     "Rowan": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rowan.png"
     },
     "Royal Guard": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Royal_Guard.png"
     },
     "Sandlashed Survivor": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sandlashed_Survivor.png"
     },
     "Seeker": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Seeker.png"
     },
     "Seer": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Orcs",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Seer.png"
     },
     "Seneschal": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Seneschal.png"
     },
     "Sepulcher Sentinel": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sepulcher_Sentinel.png"
     },
     "Shaman": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shaman.png"
     },
     "Shatterbones": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shatterbones.png"
     },
     "Sikara": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sikara.png"
     },
     "Sinesha": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sinesha.png"
     },
     "Skullcrown": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skullcrown.png"
     },
     "Skullcrusher": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skullcrusher.png"
     },
     "Skytouched Shaman": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skytouched_Shaman.png"
     },
     "Snorting Thug": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Snorting_Thug.png"
     },
     "Souldrinker": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Souldrinker.png"
     },
     "Spider": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Spider.png"
     },
     "Stag Knight": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stag_Knight.png"
     },
     "Steelskull": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Skinwalkers",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Steelskull.png"
     },
     "Suwai Firstborn": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Suwai_Firstborn.png"
     },
     "Tallia": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tallia.png"
     },
     "Taurus": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Taurus.png"
     },
     "Tayrel": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tayrel.png"
     },
     "Terrorbeast": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Terrorbeast.png"
     },
     "Teshada": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Teshada.png"
     },
     "Thenasil": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Thenasil.png"
     },
     "Torturehelm": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Torturehelm.png"
     },
     "Towering Titan": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Ogryn Tribes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Towering_Titan.png"
     },
     "Ultimate Galek": {
         "rarity": "epic",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ultimate_Galek.png"
     },
     "Umbral Enchantress": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Umbral_Enchantress.png"
     },
     "Ursine Icecrusher": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ursine_Icecrusher.png"
     },
     "Ursine Ironhide": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ursine_Ironhide.png"
     },
     "Valla": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Valla.png"
     },
     "Vergis": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vergis.png"
     },
     "Vrask": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vrask.png"
     },
     "Warcaster": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warcaster.png"
     },
     "Warden": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warden.png"
     },
     "Whisper": {
         "rarity": "epic",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Whisper.png"
     },
     "Woad-Painted": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Woad_Painted.png"
     },
     "Yaga the Insatiable": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Yaga_the_Insatiable.png"
     },
     "Zargala": {
         "rarity": "epic",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Zargala.png"
     },
     "Zelotah": {
         "rarity": "epic",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Zelotah.png"
     },
     "Acolyte": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Acolyte.png"
     },
     "Adjudicator": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Adjudicator.png"
     },
     "Amarantine Skeleton": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Amarantine_Skeleton.png"
     },
     "Anointed": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Anointed.png"
     },
     "Apothecary": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Apothecary.png"
     },
     "Arbalester": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Arbalester.png"
     },
     "Arcanist": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Arcanist.png"
     },
     "Athel": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Athel.png"
     },
     "Avenger": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Avenger.png"
     },
     "Banshee": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Banshee.png"
     },
     "Beast Wrestler": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Beast_Wrestler.png"
     },
     "Bellower": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Ogryn Tribes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bellower.png"
     },
     "Berserker": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Berserker.png"
     },
     "Bloodbraid": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodbraid.png"
     },
     "Bloodhorn": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodhorn.png"
     },
     "Bloodpainter": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodpainter.png"
     },
     "Bogwalker": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bogwalker.png"
     },
     "Bombardier": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bombardier.png"
     },
     "Bone Knight": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bone_Knight.png"
     },
     "Bulwark": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bulwark.png"
     },
     "Cataphract": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cataphract.png"
     },
     "Centurion": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Centurion.png"
     },
     "Channeler": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Skinwalkers",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Channeler.png"
     },
     "Chaplain": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chaplain.png"
     },
     "Chevalier": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chevalier.png"
     },
     "Chopper": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chopper.png"
     },
     "Coffin Smasher": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Coffin_Smasher.png"
     },
     "Coldheart": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Coldheart.png"
     },
     "Confessor": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Confessor.png"
     },
     "Conquerer": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Conquerer.png"
     },
     "Corpulent Cadaver": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Corpulent_Cadaver.png"
     },
     "Courtier": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Courtier.png"
     },
     "Crimson Slayer": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crimson_Slayer.png"
     },
     "Crossbowman": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crossbowman.png"
     },
     "Cudgeler": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cudgeler.png"
     },
     "Daywalker": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Daywalker.png"
     },
     "Deathchanter": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Deathchanter.png"
     },
     "Diabolist": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Diabolist.png"
     },
     "Doomscreech": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Doomscreech.png"
     },
     "Elder": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elder.png"
     },
     "Elhain": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elhain.png"
     },
     "Eviscerator": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Eviscerator.png"
     },
     "Executioner": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Executioner.png"
     },
     "Fellhound": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fellhound.png"
     },
     "Fencer": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fencer.png"
     },
     "Flesheater": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Flesheater.png"
     },
     "Fleshmonger": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fleshmonger.png"
     },
     "Flinger": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Flinger.png"
     },
     "Fortress Goon": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fortress_Goon.png"
     },
     "Frozen Banshee": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Frozen_Banshee.png"
     },
     "Furystoker": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Furystoker.png"
     },
     "Galek": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Galek.png"
     },
     "Gator": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gator.png"
     },
     "Ghoulish Ranger": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ghoulish_Ranger.png"
     },
     "Gladiator": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gladiator.png"
     },
     "Gnarlhorn": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gnarlhorn.png"
     },
     "Goremask": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Goremask.png"
     },
     "Grandmaster": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grandmaster.png"
     },
     "Grappler": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grappler.png"
     },
     "Gravechill Killer": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gravechill_Killer.png"
     },
     "Graybeard": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Graybeard.png"
     },
     "Grinner": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grinner.png"
     },
     "Grumbler": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grumbler.png"
     },
     "Guardian": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Guardian.png"
     },
     "Halberdier": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Halberdier.png"
     },
     "Harrier": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Harrier.png"
     },
     "Haruspex": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Lizardmen",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Haruspex.png"
     },
     "Harvester": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Harvester.png"
     },
     "Hatchet Slinger": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hatchet_Slinger.png"
     },
     "Heiress": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Heiress.png"
     },
     "Hellfang": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hellfang.png"
     },
     "Hexweaver": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hexweaver.png"
     },
     "Hill Nomad": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hill_Nomad.png"
     },
     "Hollow": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hollow.png"
     },
     "Honor Guard": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Honor_Guard.png"
     },
     "Hospitaller": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hospitaller.png"
     },
     "Hound Spawn": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hound_Spawn.png"
     },
     "Huntress": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Huntress.png"
     },
     "Hurler": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hurler.png"
     },
     "Hyria": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hyria.png"
     },
     "Ifrit": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ifrit.png"
     },
     "Interceptor": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Interceptor.png"
     },
     "Ironclad": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ironclad.png"
     },
     "Judge": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Judge.png"
     },
     "Judicator": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Judicator.png"
     },
     "Justiciar": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Justiciar.png"
     },
     "Kael": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kael.png"
     },
     "Lamellar": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lamellar.png"
     },
     "Madman": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Madman.png"
     },
     "Magister": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Magister.png"
     },
     "Magmablood": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Magmablood.png"
     },
     "Magus": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Magus.png"
     },
     "Maiden": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maiden.png"
     },
     "Malbranche": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Malbranche.png"
     },
     "Marked": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Marked.png"
     },
     "Marquess": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Marquess.png"
     },
     "Marquis": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Marquis.png"
     },
     "Master Butcher": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Master_Butcher.png"
     },
     "Metalshaper": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Metalshaper.png"
     },
     "Mother Superior": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mother_Superior.png"
     },
     "Muckstalker": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Muckstalker.png"
     },
     "Myrmidon": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Myrmidon.png"
     },
     "Mystic Hand": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mystic_Hand.png"
     },
     "Ogryn Jailer": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ogryn_Jailer.png"
     },
     "Ox": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ox.png"
     },
     "Pain Keeper": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pain_Keeper.png"
     },
     "Painsmith": {
         "rarity": "rare",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Painsmith.png"
     },
     "Paragon": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Paragon.png"
     },
     "Penitent": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Penitent.png"
     },
     "Perforator": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Perforator.png"
     },
     "Pounder": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pounder.png"
     },
     "Preserver": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Preserver.png"
     },
     "Ragemonger": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ragemonger.png"
     },
     "Raider": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Raider.png"
     },
     "Reliquary Tender": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "High Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Reliquary_Tender.png"
     },
     "Renegade": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Renegade.png"
     },
     "Retainer": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Dark Elves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Retainer.png"
     },
     "Rocktooth": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rocktooth.png"
     },
     "Rotting Mage": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rotting_Mage.png"
     },
     "Runic Warder": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Runic_Warder.png"
     },
     "Seducer": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Seducer.png"
     },
     "Sentinel": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sentinel.png"
     },
     "Siegebreaker": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Siegebreaker.png"
     },
     "Skink": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skink.png"
     },
     "Skirmisher": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skirmisher.png"
     },
     "Skullsworn": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skullsworn.png"
     },
     "Slasher": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Slasher.png"
     },
     "Slayer": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Slayer.png"
     },
     "Slitherbrute": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Slitherbrute.png"
     },
     "Sorceress": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sorceress.png"
     },
     "Soulbond Bowyer": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Soulbond_Bowyer.png"
     },
     "Spikehead": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Spikehead.png"
     },
     "Spirithost": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Spirithost.png"
     },
     "Steadfast Marshal": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Steadfast_Marshal.png"
     },
     "Steel Bowyer": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Steel_Bowyer.png"
     },
     "Stitched Beast": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stitched_Beast.png"
     },
     "Stoneskin": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Ogryn Tribes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stoneskin.png"
     },
     "Stout Axeman": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stout_Axeman.png"
     },
     "Templar": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Templar.png"
     },
     "Temptress": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Temptress.png"
     },
     "Theurgist": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Theurgist.png"
     },
     "Tormentor": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tormentor.png"
     },
     "Totem": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Totem.png"
     },
     "Treefeller": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Treefeller.png"
     },
     "Twinclaw Disciple": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Twinclaw_Disciple.png"
     },
     "Valerie": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Valerie.png"
     },
     "Vanguard": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vanguard.png"
     },
     "Veteran": {
         "rarity": "rare",
         "affinity": "void",
         "faction": "Orcs",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Veteran.png"
     },
     "Wanderer": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Wanderer.png"
     },
     "Warmaiden": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warmaiden.png"
     },
     "Warpriest": {
         "rarity": "rare",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warpriest.png"
     },
     "Witness": {
         "rarity": "rare",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Witness.png"
     },
     "Wretch": {
         "rarity": "rare",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Wretch.png"
     },
     "Admonitor": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Admonitor.png"
     },
     "Archer": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Archer.png"
     },
     "Aristocrat": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Aristocrat.png"
     },
     "Armiger": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Armiger.png"
     },
     "Battle Sister": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Battle_Sister.png"
     },
     "Brute": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Brute.png"
     },
     "Chemist": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chemist.png"
     },
     "Commander": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Commander.png"
     },
     "Crusader": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crusader.png"
     },
     "Crusher": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crusher.png"
     },
     "Cultist": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cultist.png"
     },
     "Dead Crusader": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dead_Crusader.png"
     },
     "Dervish": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dervish.png"
     },
     "Dhampir": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dhampir.png"
     },
     "Duelist": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Duelist.png"
     },
     "Elfguard": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elfguard.png"
     },
     "Fireblade": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fireblade.png"
     },
     "Frontline Warrior": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Frontline_Warrior.png"
     },
     "Frostskin": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Ogryn Tribes",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Frostskin.png"
     },
     "Hardscale": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hardscale.png"
     },
     "Head Taker": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Head_Taker.png"
     },
     "Heartpiercer": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Heartpiercer.png"
     },
     "Herald": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Knight Revenant",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Herald.png"
     },
     "Hungerer": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hungerer.png"
     },
     "Incubus": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Incubus.png"
     },
     "Intercessor": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Intercessor.png"
     },
     "Jaeger": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "High Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Jaeger.png"
     },
     "Lemure": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lemure.png"
     },
     "Line Infantry": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Dwarves",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Line_Infantry.png"
     },
     "Militia": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Militia.png"
     },
     "Oldbeard": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Ogryn Tribes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Oldbeard.png"
     },
     "Outlander": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Outlander.png"
     },
     "Outlaw Monk": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Outlaw_Monk.png"
     },
     "Outrider": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Outrider.png"
     },
     "Pilgrim": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pilgrim.png"
     },
     "Pit Cur": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Demonspawn",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pit_Cur.png"
     },
     "Pit Fighter": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pit_Fighter.png"
     },
     "Pitspawn": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pitspawn.png"
     },
     "Redeemer": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Redeemer.png"
     },
     "Ritualist": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Barbarians",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ritualist.png"
     },
     "Satyr": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Skinwalkers",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Satyr.png"
     },
     "Saurus": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Saurus.png"
     },
     "Sergeant": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sergeant.png"
     },
     "Sharpshooter": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sharpshooter.png"
     },
     "Shieldguard": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shieldguard.png"
     },
     "Skellag": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skellag.png"
     },
     "Skinner": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skinner.png"
     },
     "Skullsquire": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skullsquire.png"
     },
     "Slicer": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Slicer.png"
     },
     "Sniper": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sniper.png"
     },
     "Spiritwalker": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Barbarians",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Spiritwalker.png"
     },
     "Squire": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Squire.png"
     },
     "Stalker": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Lizardmen",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stalker.png"
     },
     "Stalwart": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stalwart.png"
     },
     "Thrasher": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Ogryn Tribes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Thrasher.png"
     },
     "Throatcutter": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Throatcutter.png"
     },
     "Tracker": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Orcs",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tracker.png"
     },
     "Tunnel Steward": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Dwarves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tunnel_Steward.png"
     },
     "Vigilante": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vigilante.png"
     },
     "Vilespawn": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Demonspawn",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vilespawn.png"
     },
     "Vulpine": {
         "rarity": "uncommon",
         "affinity": "force",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vulpine.png"
     },
     "Warchanter": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warchanter.png"
     },
     "Windtalker": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Skinwalkers",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Windtalker.png"
     },
     "Word Bearer": {
         "rarity": "uncommon",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "support"
+        "role": "support",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Word_Bearer.png"
     },
     "Zephyr Sniper": {
         "rarity": "uncommon",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Zephyr_Sniper.png"
     },
     "Axeman": {
         "rarity": "common",
         "affinity": "force",
         "faction": "Banner Lords",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Axeman.png"
     },
     "Bandit": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bandit.png"
     },
     "Bully": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "Barbarians",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bully.png"
     },
     "Death Hound": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Death_Hound.png"
     },
     "Deathknight": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Undead Hordes",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Deathknight.png"
     },
     "Hellhound": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "Undead Hordes",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hellhound.png"
     },
     "Knecht": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Knecht.png"
     },
     "Lurker": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lurker.png"
     },
     "Magekiller": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Magekiller.png"
     },
     "Novitiate": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Novitiate.png"
     },
     "Pikeman": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Pikeman.png"
     },
     "Preacher": {
         "rarity": "common",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "hp"
+        "role": "hp",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Preacher.png"
     },
     "Ranger": {
         "rarity": "common",
         "affinity": "force",
         "faction": "Dark Elves",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ranger.png"
     },
     "Sister Militant": {
         "rarity": "common",
         "affinity": "force",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sister_Militant.png"
     },
     "Swordsman": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Banner Lords",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Swordsman.png"
     },
     "Thrall": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Knight Revenant",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Thrall.png"
     },
     "Troglodyte": {
         "rarity": "common",
         "affinity": "spirit",
         "faction": "Lizardmen",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Troglodyte.png"
     },
     "Warboy": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "Orcs",
-        "role": "defense"
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warboy.png"
     },
     "Yeoman": {
         "rarity": "common",
         "affinity": "magic",
         "faction": "The Sacred Order",
-        "role": "attack"
+        "role": "attack",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Yeoman.png"
     }
 }

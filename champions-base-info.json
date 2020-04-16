@@ -2283,6 +2283,7 @@
     },
     "Painsmith": {
         "rarity": "rare",
+        "affinity": "void",
         "faction": "Dwarves",
         "role": "attack",
         "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Painsmith.png"

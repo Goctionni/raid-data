@@ -496,6 +496,13 @@
         "role": "support",
         "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skartorsis.png"
     },
+    "Skull Lord Var-Gall": {
+        "rarity": "legendary",
+        "affinity": "force",
+        "faction": "Lizardmen",
+        "role": "defense",
+        "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skull_Lord_Var_Gall.png"
+    },
     "Soulless": {
         "rarity": "legendary",
         "affinity": "void",

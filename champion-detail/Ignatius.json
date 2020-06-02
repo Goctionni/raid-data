@@ -1,0 +1,74 @@
+{
+  "name": "Ignatius",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "18,825",
+    "atk": "1,057",
+    "def": "1,266",
+    "spd": "93",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Skull Rattle",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Battle Shout",
+      "description": "Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Turn to Ash",
+      "description": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. This debuff cannot be resisted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ignatius.png"
+}

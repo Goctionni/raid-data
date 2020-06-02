@@ -1,0 +1,67 @@
+{
+  "name": "Hatchet Slinger",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "10,575",
+    "atk": "1,321",
+    "def": "1,002",
+    "spd": "93",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Axe Frenzy",
+      "description": "Attacks 1 enemy 2 times. Has an 80% chance of ignoring 15% of the target’s DEF if this Champion has 50% HP or higher. Has a 10% chance of placing a [Stun] debuff for 1 turn if this Champion has less than 50% HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Buff/Debuff Chance +5%",
+        "Level 8: Damage +5%",
+        "Level 9: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Dwarven Fortitude",
+      "description": "Places an [Unkillable] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Hatchets For All",
+      "description": "Has a 5% chance of counterattacking when hit. Has a 25% chance of counterattacking when hit with a critical hit.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hatchet_Slinger.png"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "Graybeard",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,700",
+    "atk": "936",
+    "def": "1,112",
+    "spd": "92",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Expose Weakness",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Ice Crush",
+      "description": "Attacks all enemies. Has a 25% chance of placing a [Freeze] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Bring It On!",
+      "description": "Places a [Shield] buff on this Champion for 2 turns. Has an 80% chance of placing a [Counterattack] buff on this Champion for 2 turns. The value of the [Shield] is proportional to DEF. This buff cannot be removed.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Dungeons by 30%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Graybeard.png"
+}

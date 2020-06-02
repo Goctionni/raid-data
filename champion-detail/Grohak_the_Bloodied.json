@@ -1,0 +1,74 @@
+{
+  "name": "Grohak the Bloodied",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "15,690",
+    "atk": "1,487",
+    "def": "1,046",
+    "spd": "96",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sap Swiftness",
+      "description": "Attacks 2 times at random. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Unbound Anger",
+      "description": "Attacks all enemies. Fills this Champion’s Turn Meter by 20% for each enemy under a [Decrease SPD] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Lord of War",
+      "description": "Attacks 1 enemy and steals the target’s MAX Turn Meter.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Dungeons by 24%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grohak_the_Bloodied.png"
+}

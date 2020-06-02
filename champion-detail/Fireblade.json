@@ -1,0 +1,54 @@
+{
+  "name": "Fireblade",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Uncommon",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "10,800",
+    "atk": "1,178",
+    "def": "903",
+    "spd": "95",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Burning Spear",
+      "description": "Attacks 1 enemy. Places a 25% [Decrease ATK] debuff for 2 turns if this attack is critical.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Buff/Debuff Chance +10%",
+        "Level: 6 Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Path of Flame",
+      "description": "Attacks 1 enemy 3 times. Each hit has a 30% chance of placing a 2.5% [Poison] debuff for 2 turns.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Buff/Debuff Chance +10%",
+        "Level: 5 Buff/Debuff Chance +10%",
+        "Level: 6 Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fireblade.png"
+}

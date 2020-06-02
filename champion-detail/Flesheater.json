@@ -1,0 +1,70 @@
+{
+  "name": "Flesheater",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "14,535",
+    "atk": "1,024",
+    "def": "1,035",
+    "spd": "94",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Freeze the Blood",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a [Freeze] debuff on the target for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Tenderize",
+      "description": "Attacks 1 enemy 2 times. On each critical hit decreases the target’s Turn Meter by 15%.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Gruesome Nourishment",
+      "description": "Places a 50% [Increase ATK] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Faction Crypts by 22%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Flesheater.png"
+}

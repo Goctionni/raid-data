@@ -1,0 +1,71 @@
+{
+  "name": "Fang Cleric",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "903",
+    "def": "1,178",
+    "spd": "105",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Conduit Fangs",
+      "description": "Attacks 1 enemy. Has a 75% chance of transferring 1 random debuff from this Champion to the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Shadowy Blessings",
+      "description": "Heals an ally by 20% of this Champion’s MAX HP. Also fills the target’s Turn Meter by 30% if they are fully healed by this Skill. Places a [Veil] buff on the target for 1 turn if they are not fully healed by this Skill.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Return to the Ranks",
+      "description": "Revives a dead ally with 30% HP, then fills their Turn Meter by 30%. Also places an [Unkillable] buff on the target for 1 turn and a 15% [Continuous Heal] buff for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in all Battles by 15%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fang_Cleric.png"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Elder",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "914",
+    "def": "1,123",
+    "spd": "92",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Mocking Blow",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Intercede",
+      "description": "Places a 50% [Ally Protection] on the most injured ally for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Take Vengeance",
+      "description": "Places a [Counterattack] buff on this Champion for 2 turns. Heals this Champion by 15%.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Elder.png"
+}

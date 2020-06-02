@@ -1,0 +1,74 @@
+{
+  "name": "Gala Longbraids",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,165",
+    "atk": "1,432",
+    "def": "661",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "60"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Brutal Bludgeon",
+      "description": "Attacks 1 enemy 2 times. Each hit ignores 30% of the target’s DEF. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Fearless Aggression",
+      "description": "Attacks 1 enemy. Ignores 50% of target’s DEF when attacking under a [Shield] buff. Heals this Champion by 50% of the damage inflicted. Places a [Shield] buff on this Champion equal to any surplus heal for 3 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sheer Swagger",
+      "description": "Attacks 1 enemy 3 times. Each hit ignores 25% of the target’s DEF. Grants an Extra Turn if this Champion has full HP after using this Skill.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all Battles by 25%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gala_Longbraids.png"
+}

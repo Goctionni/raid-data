@@ -1,0 +1,63 @@
+{
+  "name": "Halberdier",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "12,060",
+    "atk": "1,178",
+    "def": "1,046",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hew",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Bisect",
+      "description": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Cleaving Ax",
+      "description": "Increases C.DMG by 40%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Halberdier.png"
+}

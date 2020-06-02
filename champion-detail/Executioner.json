@@ -1,0 +1,74 @@
+{
+  "name": "Executioner",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "782",
+    "def": "1,255",
+    "spd": "89",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Shield Bash",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "DEF"
+      ],
+      "abilityname": "Tumult",
+      "description": "Attacks all enemies. Decreases the Turn Meter by 20%. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Schiltron",
+      "description": "Places a 60% [Increase DEF] buff and a [Counterattack] buff on this Champion for 3 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 17%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Executioner.png"
+}

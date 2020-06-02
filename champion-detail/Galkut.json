@@ -1,0 +1,75 @@
+{
+  "name": "Galkut",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "11,400",
+    "atk": "1,321",
+    "def": "1,222",
+    "spd": "91",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Mangle Limbs",
+      "description": "Attacks 1 enemy 2 times. Has a 25% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Brutal Battering",
+      "description": "Attacks all enemies 1 by 1 in random order. Damage inflicted decreases by 25% after each hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Boom Barrage",
+      "description": "Attacks all enemies. Places a [Bomb] that detonates after 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally C.RATE in Dungeons by 24%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Galkut.png"
+}

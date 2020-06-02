@@ -1,0 +1,60 @@
+{
+  "name": "Furystoker",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "1,024",
+    "def": "1,013",
+    "spd": "100",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Crush",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Remedy",
+      "description": "Removes all debuffs from a target ally. Heals the target by 20%. The heal increases according to the amount of debuffs removed.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +5%",
+        "Level 5: Heal +5%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Forest Kin",
+      "description": "Heals the ally with the lowest HP by 7.5% each turn. This heal can be critical. Will not heal this Champion.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Furystoker.png"
+}

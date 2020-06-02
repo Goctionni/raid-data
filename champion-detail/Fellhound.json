@@ -1,0 +1,67 @@
+{
+  "name": "Fellhound",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "958",
+    "def": "1,079",
+    "spd": "92",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Ravage",
+      "description": "Attacks all enemies. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Flameborn Vigor",
+      "description": "Places a 7.5% [Continuous Heal] buff and a 15% [Reflect Damage] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Deflect",
+      "description": "Places a [Block Damage] buff on an ally for 1 turn.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 19%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Fellhound.png"
+}

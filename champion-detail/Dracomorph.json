@@ -1,0 +1,71 @@
+{
+  "name": "Dracomorph",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "15,195",
+    "atk": "1,520",
+    "def": "1,046",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Seeping Pain",
+      "description": "Attacks 1 enemy. Damage increases by 10% for each debuff on the target. Will attack 1 random enemy with any surplus damage if the target is killed. Damage inflicted is equal to triple the surplus damage.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Poison Jaws",
+      "description": "Attacks 4 times at random. Each hit places a 5% [Poison] debuff for 3 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Baleful Eye",
+      "description": "Places a 25% [Weaken] debuff and a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ACC in Faction Crypts by 50.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dracomorph.png"
+}

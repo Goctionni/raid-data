@@ -1,0 +1,78 @@
+{
+  "name": "Frozen Banshee",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,700",
+    "atk": "1,046",
+    "def": "1,002",
+    "spd": "99",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Death’s Caress",
+      "description": "Attacks 1 enemy 2 times. Each hit has an 80% chance pf placing a 5% [Poison] debuff for 2 turns if the target is under a [Poison Sensitivity] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Cruel Exultation",
+      "description": "Attacks 1 enemy. Fills the Turn Meters of all allies by 2% for each debuff on the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Frost Blight",
+      "description": "Attacks 1 enemy. Places a 25% [Poison Sensitivity] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ACC in all Battles by 35.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Frozen_Banshee.png"
+}

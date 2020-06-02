@@ -1,0 +1,65 @@
+{
+  "name": "Huntress",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "11,895",
+    "atk": "1,310",
+    "def": "925",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Curved Shot",
+      "description": "Attacks 1 enemy 2 times. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Incinerate",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Whisper",
+      "description": "Places a 15% [Increase C.RATE] buff and a 50% [Increase ATK] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Huntress.png"
+}

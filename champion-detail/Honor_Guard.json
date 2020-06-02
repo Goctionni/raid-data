@@ -1,0 +1,80 @@
+{
+  "name": "Honor Guard",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "15,525",
+    "atk": "760",
+    "def": "1,233",
+    "spd": "99",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "55"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Bell Ringer",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Decrease ACC] debuff for 2 turns if the target has no active buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Fate Transfer",
+      "description": "Attacks 1 enemy. Has a 50% chance of stealing 2 random buffs from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +15%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Astral Chains",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Buff/Debuff Chance +15%",
+        "Level 8: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Force Ally DEF in all Battles by 25%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Honor_Guard.png"
+}

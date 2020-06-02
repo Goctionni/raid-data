@@ -1,0 +1,80 @@
+{
+  "name": "Goremask",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "12,225",
+    "atk": "1,509",
+    "def": "705",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Snap",
+      "description": "Attacks 1 enemy 2 times.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Go for the Throat",
+      "description": "Attacks 1 enemy. Damage increases by 20% if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Damage +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Tearing Jaws",
+      "description": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in the Arena by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Goremask.png"
+}

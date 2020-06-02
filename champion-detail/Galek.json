@@ -1,0 +1,74 @@
+{
+  "name": "Galek",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "13,710",
+    "atk": "1,200",
+    "def": "914",
+    "spd": "103",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Cross Slash",
+      "description": "Attacks 1 enemy 2 times.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hellraiser",
+      "description": "Attacks all enemies. Has an extra 15% chance of inflicting a critical hit. Places a 30% [Increase SPD] buff on this champion for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Cursed Blade",
+      "description": "Attacks 4 times at random. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns. Has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns if the target has more than 2 debuffs.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all battles by 15%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Galek.png"
+}

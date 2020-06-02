@@ -1,0 +1,76 @@
+{
+  "name": "Grappler",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "14,700",
+    "atk": "859",
+    "def": "1,189",
+    "spd": "94",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hoodoo",
+      "description": "Attacks 2 times at random. Has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Soul Sizzle",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing two 2.5% [Poison] debuffs for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Envelop",
+      "description": "Places a [Shield] buff on all allies equal to 20% of their HP and a 15% [Reflect Damage] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Shield +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Shield +5%",
+        "Level 5: Shield +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Spirit Ally HP in all Battles by 19%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grappler.png"
+}

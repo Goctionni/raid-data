@@ -1,0 +1,72 @@
+{
+  "name": "Ifrit",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,825",
+    "atk": "815",
+    "def": "958",
+    "spd": "95",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Feebleness Curse",
+      "description": "Attacks 1 enemy. Places a 15% [Weaken] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Withering Bolt",
+      "description": "Attacks 1 enemy. Places a 25% [Decrease ATK] debuff for 2 turns. Damage increases according to this Champion’s MAX HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Shadow Field",
+      "description": "Decrease the damage received by 50% if damage from a single hit exceeds 30% HP. Places a 30% [Decrease DEF] debuff for 2 turns on the attacker if the attack is critical.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 15%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ifrit.png"
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Grumbler",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "19,485",
+    "atk": "804",
+    "def": "925",
+    "spd": "95",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "55"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP",
+        "DEF"
+      ],
+      "abilityname": "Angry Mallet",
+      "description": "Attacks 1 enemy. Places a [Shield] buff on this Champion equal to 10% of their MAX HP for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Shield +5%",
+        "Level 6: Shield +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "HP",
+        "DEF"
+      ],
+      "abilityname": "No Coming Back",
+      "description": "Attacks 1 enemy. Places a 50% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Shoulder the Weight",
+      "description": "Places a 25% [Ally Protection] buff on all allies for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeon by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Grumbler.png"
+}

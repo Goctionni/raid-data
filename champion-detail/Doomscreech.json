@@ -1,0 +1,73 @@
+{
+  "name": "Doomscreech",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "20,310",
+    "atk": "925",
+    "def": "749",
+    "spd": "95",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Scrabbling Claws",
+      "description": "Attacks 1 enemy 2 times. Has a 25% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Warning Screech",
+      "description": "Fills the Turn Meter of all allies by 30%. Places a 60% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Shelter",
+      "description": "Attacks all enemies. Places a [Shield] buff equal to 30% MAX HP on this Champion for 2 turns. Damage increases according to this Champion’s MAX HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Faction Crypts by 21%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Doomscreech.png"
+}

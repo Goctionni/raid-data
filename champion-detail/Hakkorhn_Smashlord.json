@@ -1,0 +1,70 @@
+{
+  "name": "Hakkorhn Smashlord",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "23,790",
+    "atk": "848",
+    "def": "1,145",
+    "spd": "99",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Inhuman Force",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Rallying Bellow",
+      "description": "Heals all allies by 15% of this Champion’s HP. Removes all debuffs from allies and heals them by an extra 10% for each removed debuff. Places a [Block Debuffs] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +5%",
+        "Level 5: Heal +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "MAX HP"
+      ],
+      "abilityname": "Blood Offering",
+      "description": "Receives damage equal to 50% of this Champion’s MAX HP. Always inflicts a normal hit. This will happen even if it kills this Champion. If not killed, attacks all enemies. Damage is proportional to 50% of this Champion’s MAX HP.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Hakkorhn_Smashlord.png"
+}

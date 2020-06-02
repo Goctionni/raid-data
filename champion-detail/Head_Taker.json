@@ -1,0 +1,54 @@
+{
+  "name": "Head Taker",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Uncommon",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,535",
+    "atk": "980",
+    "def": "804",
+    "spd": "97",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Carve Up",
+      "description": "Attacks 1 enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Weakling!",
+      "description": "Attacks 1 enemy. Has a 50% chance of decreasing the Turn Meter by 20%",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Buff/Debuff Chance +15%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Head_Taker.png"
+}

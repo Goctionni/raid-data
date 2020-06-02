@@ -1,0 +1,68 @@
+{
+  "name": "Gladiator",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "14,040",
+    "atk": "1,156",
+    "def": "936",
+    "spd": "97",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Cleaving Axe",
+      "description": "Attacks 1 enemy 2 times. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns if the target’s Turn Meter is more than or exactly 50% full. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns if the target’s Turn Meter is less than 50% full.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Capital Punishment",
+      "description": "Attacks 2 times at random. Has an 80% chance of placing a [Stun] debuff if the target’s Turn Meter is above or equal 75%.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Torture",
+      "description": "Attacks all enemies.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gladiator.png"
+}

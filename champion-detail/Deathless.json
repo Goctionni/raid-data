@@ -1,0 +1,77 @@
+{
+  "name": "Deathless",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "18,990",
+    "atk": "881",
+    "def": "1,156",
+    "spd": "92",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Grave Whispers",
+      "description": "Attacks 1 enemy. Has a 70% chance of placing a 60% [Decrease DEF] debuff for 2 turns if 1 or more allies are dead, a 30% [Decrease SPD] for 2 or more allies are dead, and a 50% [Decrease ACC] debuff for 2 turns if 3 or more allies are dead.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Buff/Debuff Chance +10%",
+        "Level: 5 Buff/Debuff Chance +10%",
+        "Level: 6 Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Vile Insults",
+      "description": "Places a 30% [Reflect Damage] buff on this Champion for 2 turns, then attacks 1 enemy. Has an 80% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level: 2 Damage +10%",
+        "Level: 3 Damage +10%",
+        "Level: 4 Buff/Debuff Chance +10%",
+        "Level: 5 Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 5,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Grim Revenge",
+      "description": "Attacks all enemies. This attack will always be critical if there are 2 or more dead allies. Damage increases according to the number of dead allies.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +10%",
+        "Level: 4 Damage +10%",
+        "Level: 5 Cooldown -1",
+        "Level: 6 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in the Arena by 70.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Deathless.png"
+}

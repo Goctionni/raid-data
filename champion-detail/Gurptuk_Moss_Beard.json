@@ -1,0 +1,81 @@
+{
+  "name": "Gurptuk Moss-Beard",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,825",
+    "atk": "1,079",
+    "def": "1,244",
+    "spd": "100",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Biotic Staff",
+      "description": "Attacks 1 enemy 2 times. Places a 15% [Continuous Heal] buff for 1 turn on all allies under [Poison] debuffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Druidic Boon",
+      "description": "Removes all debuffs from an ally, then heals them by 30% of their MAX HP and places a [Shield] buff on the target equal to 20% of their MAX HP for 2 turns.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Shield +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Cloud of Spores",
+      "description": "Places three 5% [Poison] debuffs on all allies for 3 turns. These debuffs cannot be resisted or blocked. Also has an 80% chance of placing a [Block Buffs] debuff on all enemies for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Symbiotes",
+      "description": "Allies under [Poison] debuffs inflict 7.5% more damage for each [Poison] debuff on them, stacking up to a maximum of 30%. This damage increase applies to all of their skills. Also increases each ally’s RES by 15 for each [Poison] debuff on them.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in all Battles by 50.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gurptuk_Moss_Beard.png"
+}

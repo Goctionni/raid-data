@@ -1,0 +1,73 @@
+{
+  "name": "Dark Elhain",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "17,010",
+    "atk": "1,365",
+    "def": "804",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Necrotic",
+      "description": "Attacks 1 enemy. Decreases the target’s MAX HP by 30% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Death’s Majesty",
+      "description": "Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks all enemies. Has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Lethal Winter",
+      "description": "Fills this Champion’s Turn Meter by 25% and instantly activates the Death’s Majesty Skill whenever this Champion or an ally receives a [Freeze] debuff.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Veins of Ice",
+      "description": "Instantly removes any [Freeze] debuffs on this Champion and replaces them with a 30% [Increase C.RATE] buff, a 30% [Increase C.DMG] buff, and a 15% [Strengthen] buff whenever an enemy places a [Freeze] debuff on this Champion.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dark_Elhain.png"
+}

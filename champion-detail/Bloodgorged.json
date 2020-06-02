@@ -1,0 +1,66 @@
+{
+  "name": "Bloodgorged",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,990",
+    "atk": "1,465",
+    "def": "848",
+    "spd": "90",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Break Defense",
+      "description": "Attacks 1 enemy 2 times. Has a 55% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Raging Beast",
+      "description": "Attacks all enemies. Puts one of each target’s Skills on cooldown.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Decapitate",
+      "description": "Attacks 1 enemy. Will ignore DEF. Enemies killed by this skill cannot be revived.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bloodgorged.png"
+}

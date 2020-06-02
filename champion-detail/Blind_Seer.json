@@ -1,0 +1,69 @@
+{
+  "name": "Blind Seer",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,165",
+    "atk": "1,322",
+    "def": "1,035",
+    "spd": "115",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Visions of Death",
+      "description": "Attacks 3 times at random. Each hit has a 30% chance of decreasing the Turn Meter by 15%.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +10%",
+        "Level: 4 Buff/Debuff Chance +5%",
+        "Level: 5 Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Dark Shroud",
+      "description": "Places a [Shield] buff and a [Block Debuffs] buff on all allies for 2 turns. The shield is proportional to this Champion’s MAX HP.",
+      "books": [
+        "Level: 2 Shield +5%",
+        "Level: 3 Shield +5%",
+        "Level: 4 Shield +5%",
+        "Level: 5 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 6,
+      "dmgscaling": [],
+      "abilityname": "Self Sacrifice",
+      "description": "Revives all dead allies to 35% HP. Places a [Block Damage] buff on all allies except this Champion for 1 turn. This Champion will receive damage equal to 25% of their MAX HP. This will happen even if it kills this Champion.",
+      "books": [
+        "Level: 2 Heal +5%",
+        "Level: 3 Heal +5%",
+        "Level: 4 Heal +5%",
+        "Level: 5 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Dungeons by 42%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Blind_Seer.png"
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Centurion",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "15,690",
+    "atk": "793",
+    "def": "1,189",
+    "spd": "93",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Feed on Suffering",
+      "description": "Attacks 1 enemy. Heals this Champion by 15% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Freakish Resilience",
+      "description": "Heals this Champion by 30% of their MAX HP and places a 30% [Increase DEF] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Soul Possession",
+      "description": "Exchanges remaining HP levels with a target enemy, then equalizes the HP of all allies.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Centurion.png"
+}

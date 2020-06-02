@@ -1,0 +1,73 @@
+{
+  "name": "Channeler",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "17,175",
+    "atk": "881",
+    "def": "1,002",
+    "spd": "103",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Rage of Ancients",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a 50% [Heal Reduction] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Halt!",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Agility",
+      "description": "Places a 30% [Increase SPD] buff on all allies for 2 turns. Fills the Turn Meter of all allies by 15%.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Faction Crypts by 30.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Channeler.png"
+}

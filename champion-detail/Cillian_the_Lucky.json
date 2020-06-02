@@ -1,0 +1,88 @@
+{
+  "name": "Cillian the Lucky",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "13,215",
+    "atk": "1,432",
+    "def": "1,266",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Trip Up",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 35% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Each hit also has a 35% chance of stealing 30% of the target’s current Turn Meter.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Inflict Misfortune",
+      "description": "Attacks 1 enemy. Has an 85% chance of placing a [Block Cooldown Skills] debuff for 4 turns. Also has a 35% chance of placing a [Block Cooldown Skills] debuff on all other enemies for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Head Ringer",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Stun] debuff for 1 turn. Has a 25% chance of placing the [Stun] debuff for 2 turns instead and stealing 50% of the target’s current Turn Meter. Resets the cooldown of this Skill if the target is killed.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +10%",
+        "Level 3: Buff/Debuff Chance +15%",
+        "Level 4: Damage +20%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Charmed Life",
+      "description": "Places one of the following buffs on this Champion for 2 turns at the start of each turn: a 50% [Increase ATK] buff, a 30% [Increase C.DMG] buff, a 30% [Increase C.RATE] buff, a 25% [Strengthen] buff, or a [Block Damage] buff.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cillian_the_Lucky.png"
+}

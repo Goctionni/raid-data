@@ -1,0 +1,62 @@
+{
+  "name": "Chaplain",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "15,855",
+    "atk": "1,079",
+    "def": "892",
+    "spd": "102",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Holy Bolt",
+      "description": "Attacks 1 enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Benediction",
+      "description": "Removes all debuffs from a target ally, then heals the target. The heal amount is proportional to this Champion’s ATK.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Radiance",
+      "description": "Attacks all enemies. Heals all allies by 25% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chaplain.png"
+}

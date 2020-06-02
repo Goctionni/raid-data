@@ -1,0 +1,71 @@
+{
+  "name": "Altan",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "20,145",
+    "atk": "837",
+    "def": "1,398",
+    "spd": "102",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Searing Blow",
+      "description": "Attacks 1 enemy. Has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Wall of Flame",
+      "description": "Attacks 1 enemy. Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a [Shield] buff on all allies for 2 turns equal to 20% of their MAX HP if this attack kills an enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Fiery Rebirth",
+      "description": "Revives a random ally with 30% HP every time this champion kills an enemy. Resets the cooldown on this Champion’s Skills if this Champion kills an enemy and all allies are alive.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Altan.png"
+}

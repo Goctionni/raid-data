@@ -1,0 +1,56 @@
+{
+  "name": "Chemist",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Uncommon",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "12,555",
+    "atk": "1,046",
+    "def": "870",
+    "spd": "104",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Trick Saws",
+      "description": "Attacks 1 enemy 2 times.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Alchemic Stunner",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn. This chance increases to 30% if the target’s HP is below 50%",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%",
+        "Level 7: Damage +10%",
+        "Level 8: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chemist.png"
+}

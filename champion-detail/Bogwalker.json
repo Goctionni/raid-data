@@ -1,0 +1,78 @@
+{
+  "name": "Bogwalker",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,020",
+    "atk": "848",
+    "def": "1,112",
+    "spd": "93",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Bone Katars",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance 5%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "DEF"
+      ],
+      "abilityname": "Combo Attack",
+      "description": "Attacks all enemies. Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Cooldown -1",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Damage +10%",
+        "Level 8: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Scout",
+      "description": "Places a 30% [Reflect Damage] buff on all allies for 1 turn when attacked with a critical hit.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bogwalker.png"
+}

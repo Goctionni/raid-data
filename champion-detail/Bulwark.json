@@ -1,0 +1,75 @@
+{
+  "name": "Bulwark",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "13,875",
+    "atk": "837",
+    "def": "1,266",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Hefty Flail",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 15% chance of placing a 15% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Meteoric Ignition",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%",
+        "Level 8: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Punishing Defenses",
+      "description": "When attacked, has a 30% chance of extending the duration of all debuffs on the attacker by 1 turn.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 17%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Bulwark.png"
+}

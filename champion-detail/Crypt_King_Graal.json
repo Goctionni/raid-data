@@ -1,0 +1,75 @@
+{
+  "name": "Crypt-King Graal",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "19,320",
+    "atk": "1,145",
+    "def": "1,145",
+    "spd": "107",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Brittleness Bane",
+      "description": "Attacks 1 enemy. Has a 60% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Death Fires",
+      "description": "Attacks 3 times at random. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Elemental Unity",
+      "description": "Attacks all enemies. Places a [Freeze] debuff on each target for 1 turn if they are under a [HP Burn] debuff. Extends the duration of any [HP Burn] debuffs to 3 turns. This effect cannot be resisted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crypt_King_Graal.png"
+}

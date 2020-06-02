@@ -1,0 +1,72 @@
+{
+  "name": "Black Knight",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "22,470",
+    "atk": "914",
+    "def": "1,167",
+    "spd": "100",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Heavy Blow",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Lower Visor",
+      "description": "Places a 15% [Continuous Heal] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Last Breath",
+      "description": "Attacks all enemies. Damage increases according to the amount of HP this champion has lost.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Valorous",
+      "description": "Places an [Unkillable] buff on this Champion for 1 turn if incoming damage exceeds 15% MAX HP in one attack.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Black_Knight.png"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Aristocrat",
+  "class": {
+    "faction": "High Elves",
+    "rarity": "Uncommon",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "11,070",
+    "atk": "1,211",
+    "def": "804",
+    "spd": "96",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hooked Arrowheads",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a 50% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Stinging Rebuke",
+      "description": "Attacks 1 enemy 2 times. Has a 50% chance of placing a 15% [Weaken] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Aristocrat.png"
+}

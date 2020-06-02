@@ -1,0 +1,67 @@
+{
+  "name": "Arbalester",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "14,205",
+    "atk": "1,421",
+    "def": "661",
+    "spd": "96",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Spread Misery",
+      "description": "Attacks 1 enemy. Has a 50% chance of transferring 1 random debuff from this Champion to the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Lethargy",
+      "description": "Attacks 1 enemy. Has a 60% chance of putting the target’s skills on cooldown.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Soulbreak",
+      "description": "Attacks 1 enemy. Damage increases according to the number of debuffs on the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Arbalester.png"
+}

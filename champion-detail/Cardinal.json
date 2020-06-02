@@ -1,0 +1,60 @@
+{
+  "name": "Cardinal",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,340",
+    "atk": "1,002",
+    "def": "1,145",
+    "spd": "104",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Evaporation",
+      "description": "Attacks 1 enemy. Has a 10% chance of placing a 5% [Poison] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Mending Touch",
+      "description": "Heals a target ally by 30% of their MAX HP. Places a 60% [Increase DEF] buff for 2 turns.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Redemption",
+      "description": "Revives all dead allies, heals them by 25% of their MAX HP, and boosts their Turn Meter to max.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cardinal.png"
+}

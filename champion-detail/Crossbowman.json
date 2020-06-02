@@ -1,0 +1,61 @@
+{
+  "name": "Crossbowman",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "13,875",
+    "atk": "1,167",
+    "def": "936",
+    "spd": "95",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Snap Shot",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Sharp Eye",
+      "description": "Places a 30% [Increase C.RATE] buff on a target ally for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level: 2 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Blunted Arrow",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn. Also has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level: 2 Damage +10%",
+        "Level: 3 Buff/Debuff Chance +10%",
+        "Level: 4 Damage +10%",
+        "Level: 5 Buff/Debuff Chance +15%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Crossbowman.png"
+}

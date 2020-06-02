@@ -1,0 +1,82 @@
+{
+  "name": "Brakus the Shifter",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "19,815",
+    "atk": "1,465",
+    "def": "793",
+    "spd": "101",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Innocent Blood",
+      "description": "Attacks 1 enemy. Heals this Champion by 15% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Full Moon Rampage",
+      "description": "Attacks 1 enemy 6 times. Heals this Champion by 25% of the damage inflicted. Heals this Champion by 50% of the damage inflicted instead if the target is under a [Fear] or a [True Fear] debuff. After the first hit, has a 75% chance of placing a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +15%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hunter’s Howl",
+      "description": "Places a 50% [Increase ATK] buff on all allies for 3 turns, then attacks 1 enemy 3 times. Each hit has a 50% chance of placing a [True Fear] debuff for 1 turn. Has a 50% chance of placing a [Fear] debuff on 2 random enemies for 1 turn if the [True Fear] debuff is placed.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 5,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Beast Mode",
+      "description": "Passive Effect: Damage increases by 40% when this Champion’s HP drops below 40%. Active Effect: Revives this Champion with 20% HP when killed. Immediately grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Brakus_the_Shifter.png"
+}

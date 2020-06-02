@@ -1,0 +1,50 @@
+{
+  "name": "Deathknight",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Common",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "13,545",
+    "atk": "551",
+    "def": "749",
+    "spd": "99",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Rusty Sword",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Buff/Debuff Chance +10%",
+        "Level 8: Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Payback",
+      "description": "Has a 30% of counterattacking when hit.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Deathknight.png"
+}

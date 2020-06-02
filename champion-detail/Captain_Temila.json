@@ -1,0 +1,69 @@
+{
+  "name": "Captain Temila",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "18,895",
+    "atk": "936",
+    "def": "1,112",
+    "spd": "96",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Bond of Duty",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a 15% [Continuous Heal] buff on this Champion for 1 turn if the hit is critical.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Stay In The Fight",
+      "description": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Heals all allies by 15% of this Champion’s MAX HP.",
+      "books": [
+        "Level: 2 Heal +5%",
+        "Level: 3 Heal +5%",
+        "Level: 4 Heal +5%",
+        "Level: 5 Heal +5%",
+        "Level: 6 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Exalted Guardian",
+      "description": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
+      "books": [
+        "Level: 2 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Faction Crypts by 45.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Captain_Temila.png"
+}

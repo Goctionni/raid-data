@@ -1,0 +1,50 @@
+{
+  "name": "Admonitor",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Uncommon",
+    "role": "HP",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,990",
+    "atk": "617",
+    "def": "870",
+    "spd": "95",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Shield Wall",
+      "description": "Attacks 1 enemy. Places a [Shield] buff on this Champion for 1 turn equal to the 10% of the damage inflicted.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Damage +5%",
+        "Level: 6 Damage +5%",
+        "Level: 7 Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Cover",
+      "description": "Places a 50% [Ally Protection] buff on a target ally for 2 turns.",
+      "books": [
+        "Level: 2 Cooldown -1",
+        "Level: 3 Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Admonitor.png"
+}

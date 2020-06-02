@@ -1,0 +1,70 @@
+{
+  "name": "Cruetraxa",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "1,498",
+    "def": "859",
+    "spd": "99",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Dire Perforation",
+      "description": "Attacks 1 enemy 4 times. Ignores 50% of enemy DEF.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Curse of Writhing",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a 25% [Weaken] debuff for 2 turns. Has a 50% chance of removing 2 random buffs from the target. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Rite of Rebirth",
+      "description": "Places a [Revive on Death] buff on this Champion for 2 turns at the beginning of each round. Places [Revive on Death] buff on this Champion for 1 turn when this Champion kills an enemy. [Does not occur with Spiderlings].",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all Battles by 24%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cruetraxa.png"
+}

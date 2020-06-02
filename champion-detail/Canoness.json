@@ -1,0 +1,73 @@
+{
+  "name": "Canoness",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "17,670",
+    "atk": "804",
+    "def": "1,321",
+    "spd": "89",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Lead the Charge",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a 50% [Increase ATK] buff on a random ally for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Blinding Assault",
+      "description": "Attacks 1 enemy. Has an 80% chance of placing a 50% [Decrease ACC] debuff on the target for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Stalwart Guardian",
+      "description": "Places a 50% [Ally Protection] buff and a 60% [Increase DEF] buff on the target for 2 turns. Also places a 15% [Continuous Heal] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Faction Crypts by 20%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Canoness.png"
+}

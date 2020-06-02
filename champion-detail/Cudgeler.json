@@ -1,0 +1,66 @@
+{
+  "name": "Cudgeler",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,205",
+    "atk": "1,178",
+    "def": "903",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "The Harder They Fall",
+      "description": "Attacks 1 enemy 2 times. Has an additional 30% chance of inflicting a critical hit if the target is under a [Decrease DEF] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Soften Them Up",
+      "description": "Places a [Counterattack] and a 25% [Increase ATK] buff on this Champion for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Furious Defense",
+      "description": "Has a 20% chance of placing a 30% [Decrease DEF] debuff for 2 turns when attacking targets with higher DEF than this Champion. Has a 20% chance of decreasing the damage taken by 20% when attacked by enemies with higher ATK than this Champion.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cudgeler.png"
+}

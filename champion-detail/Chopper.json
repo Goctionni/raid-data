@@ -1,0 +1,78 @@
+{
+  "name": "Chopper",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "15,855",
+    "atk": "1,046",
+    "def": "925",
+    "spd": "99",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "SPD",
+        "ATK"
+      ],
+      "abilityname": "Staggering Hit",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Grapple",
+      "description": "Attacks 1 enemy. Places a [Stun] debuff for 1 turn if the target’s current HP is lower than this Champion’s current HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Incapacitate",
+      "description": "Attacks 1 enemy. Removes 2 random buffs from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ACC in the Arena by 40.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Chopper.png"
+}

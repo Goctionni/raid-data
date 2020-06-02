@@ -1,0 +1,69 @@
+{
+  "name": "Cataphract",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "991",
+    "def": "815",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sure Strike",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ACC] debuff on the target for 1 turn.",
+      "books": [
+        "Level: 2 Damage +10%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Buff/Debuff Chance +5%",
+        "Level: 5 Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Fortify",
+      "description": "Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns.",
+      "books": []
+    },
+    {
+      "cd": 6,
+      "mincd": 6,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Helmcleaver",
+      "description": "Attacks 1 enemy. Will ignore DEF if the target has less than 50% HP. Damage increases according to this Champion’s MAX HP.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level:.4 Damage +5%",
+        "Level: 5 Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in the Arena by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Cataphract.png"
+}

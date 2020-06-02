@@ -1,0 +1,85 @@
+{
+  "name": "Baron",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "15,030",
+    "atk": "1,575",
+    "def": "1,002",
+    "spd": "90",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Trample",
+      "description": "Attacks 1 enemy. Will attack all remaining enemies with any surplus damage if the target is killed. Has a 10% chance to unlock a secret skill, Skypiercer, for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Split Asunder",
+      "description": "Attacks 1 enemy. Places a 60% [Decrease DEF] debuff for 2 turns. This debuff is guaranteed. Has a 20% chance of unlocking a secret Skill, Skypiercer, for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Righteous Charge",
+      "description": "Attacks 1 enemy. Damage increases according to the number of buffs on this Champion. Has a 40% chance to unlock a secret skill, Skypiercer, for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sky Piercer",
+      "description": "Attacks all enemies. Deals Pure Damage. Will ignore [Shield] and [Block Damage] buffs.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all Battles by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Baron.png"
+}

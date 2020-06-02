@@ -1,0 +1,72 @@
+{
+  "name": "Psylar",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,165",
+    "atk": "1,123",
+    "def": "969",
+    "spd": "105",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Surge",
+      "description": "Attacks all enemies.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Toxic Cloud",
+      "description": "Attacks all enemies. Has an 80% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Leaden Legs",
+      "description": "Places a 30% [Decrease SPD] debuff on all enemies for 2 turns. Decreases the Turn Meter of all enemies by 40%.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Faction Crypts by 22%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Psylar.png"
+}

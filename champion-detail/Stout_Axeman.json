@@ -1,0 +1,61 @@
+{
+  "name": "Stout Axeman",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "19,155",
+    "atk": "859",
+    "def": "892",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Go No Further",
+      "description": "Attacks 1 enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Repel the Horde",
+      "description": "Places a 15% [Reflect Damage] buff on this Champion for 2 turns. Has an 85% chance of placing a 15% [Reflect Damage] buff on a random ally for 2 turns. Also has a 35% chance of placing a [Provoke] debuff on 2 random enemies for 1 turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Thrives on Danger",
+      "description": "Heals this Champion by 50% of the damage taken while under a [Reflect Damage] buff. Also has a 25% chance of increasing the duration of all attackers’ debuffs by 1 turn when hit while under a [Reflect Damage] buff.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Stout_Axeman.png"
+}

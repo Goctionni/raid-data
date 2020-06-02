@@ -1,0 +1,72 @@
+{
+  "name": "Sepulcher Sentinel",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,185",
+    "atk": "903",
+    "def": "1,321",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Sword of Withering",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Sepulcher Shield",
+      "description": "Places a 60% [Increase DEF] buff and a [Block Debuffs] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 1,
+      "mincd": 1,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Untouched By Death",
+      "description": "Has a 25% chance of completely blocking incoming damage when this Champion or their allies are attacked. Occurs once per turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sepulcher_Sentinel.png"
+}

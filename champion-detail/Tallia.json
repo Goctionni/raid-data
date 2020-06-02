@@ -1,0 +1,73 @@
+{
+  "name": "Tallia",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "12,390",
+    "atk": "1,343",
+    "def": "1,134",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hack and Slash",
+      "description": "Attacks 1 enemy 3 times.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Rise to Duty",
+      "description": "Places a 25% [Increase ATK] buff and a 30% [Increase C.RATE] buff on this Champion for 2 turns, then attacks all enemies. [Has a 75% chance of placing a [Bomb] debuff that will detonate after 3 turns when Fenax is on the same team]",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Awesome Presence",
+      "description": "Places a [Counterattack] buff on this Champion for 2 turns. Has a 75% chance of placing a 25% [Weaken] debuff on enemies for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +10%",
+        "Level 3: Buff/Debuff Chance +15%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally C.RATE in Dungeons by 15%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tallia.png"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Steadfast Marshal",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "20,640",
+    "atk": "870",
+    "def": "782",
+    "spd": "90",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Thunderous Whallop",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a [Provoke] debuff for 1 turn if the target’s MAX HP is lower than this Champions.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Hold Fast",
+      "description": "Places a 60% [Increase DEF] buff on this Champion for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Covered Retreat",
+      "description": "Places a [Veil] buff on all allies except this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Steadfast_Marshal.png"
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Sandlashed Survivor",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "15,030",
+    "atk": "936",
+    "def": "1,365",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Smell Weakness",
+      "description": "Attacks 1 enemy 2 times. Has a 30% chance of placing a [Provoke] debuff on the target for 1 turn if this Champion has no debuffs. Heals by 15% of the damage inflicted if this Champion is under any debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Endless Sands",
+      "description": "Attacks all enemies. Decreases the duration of all enemy buffs by 1 turn. Increases the duration of all ally buffs by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Born Survivor",
+      "description": "Places a 50% [Ally Protection] buff on all allies for 2 turns when any ally’s HP drops below 50%. Also places a [Block Damage] buff on this Champion for 1 turn.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sandlashed_Survivor.png"
+}

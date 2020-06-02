@@ -1,0 +1,65 @@
+{
+  "name": "Reinbeast",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,660",
+    "atk": "826",
+    "def": "1,233",
+    "spd": "94",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Caning",
+      "description": "Attacks 1 enemy. Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Open Slay",
+      "description": "Attacks 1 enemy 2 times. Revives a random ally with full HP if this attack kills the enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "It Glows",
+      "description": "When an ally is attacked, places a [Shield] buff equal to 35% of this Champion’s MAX HP on that ally for 2 turns. Occurs once per turn. Will not place a [Shield] buff on this Champion.",
+      "books": [
+        "Level 2: Shield +10%",
+        "Level 3: Shield +10%",
+        "Level 4: Shield +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Reinbeast.png"
+}

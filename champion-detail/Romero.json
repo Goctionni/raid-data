@@ -1,0 +1,69 @@
+{
+  "name": "Romero",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,000",
+    "atk": "804",
+    "def": "1,299",
+    "spd": "99",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Bring Hope",
+      "description": "Attacks 1 enemy. Places a 7.5% [Continuous Heal] buff on the ally with the lowest HP for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Succor",
+      "description": "Places a 15% [Continuous Heal] buff on all allies for 2 turns. Steal 1 buff from a random enemy.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Divine Benefaction",
+      "description": "Places a [Shield] buff on all allies equal to 25% of their MAX HP for 2 turns. Places a 30% [Increase DEF] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Shield +25%",
+        "Level 3: Shield +25%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Stalwart Partner",
+      "description": "Attacks all enemies 3 times. [Only available when Juliana is on the same team]",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Romero.png"
+}

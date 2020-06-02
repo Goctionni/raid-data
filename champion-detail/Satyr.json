@@ -1,0 +1,53 @@
+{
+  "name": "Satyr",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Uncommon",
+    "role": "HP",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "15,195",
+    "atk": "892",
+    "def": "848",
+    "spd": "83",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Deep Cut",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Catch!",
+      "description": "Attacks 4 times at random. Decreases the Turn Meter by 15% if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1",
+        "Level 6: Damage +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Satyr.png"
+}

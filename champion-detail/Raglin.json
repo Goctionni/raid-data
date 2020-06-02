@@ -1,0 +1,68 @@
+{
+  "name": "Raglin",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "20,310",
+    "atk": "1,156",
+    "def": "1,068",
+    "spd": "104",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Repent",
+      "description": "Attacks 1 enemy 3 times. Fills the Turn Meter of 3 random allies by 15%. Allies can only have their Turn Meter filled once per turn by this Skill.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Mercy",
+      "description": "Removes all debuffs on all allies, then heals them. The heal amount is proportional to this Champion’s ATK.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Heal +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Miracle",
+      "description": "Revives an ally with 75% HP and a full Turn Meter.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in all Battles by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Raglin.png"
+}

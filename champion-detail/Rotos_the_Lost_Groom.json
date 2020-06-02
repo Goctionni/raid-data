@@ -1,0 +1,82 @@
+{
+  "name": "Rotos the Lost Groom",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "11,895",
+    "atk": "1,520",
+    "def": "1,266",
+    "spd": "90",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Terror Scourge",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. Also has a 30% chance of granting an Extra Turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Vitality Plunder",
+      "description": "Attacks 1 enemy. Decreases the target’s MAX HP by 20%, then adds that HP to this Champion’s own MAX HP. [Cannot decrease a single Champion’s MAX HP by more than 60% in one Battle. Cannot increase this Champion’s MAX HP by more than 60,000. Does not decrease Boss’ MAX HP. This Champion’s MAX HP will be increased by 15,000 when this Skill is used against Bosses]",
+      "books": [
+        "Note: The MAX HP gained in a battle will be reset upon entering the next round! (e.g. After each Dungeon/Campaign rounds, Rotos MAX HP resets to the original MAX HP)",
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Fated Destruction",
+      "description": "Attacks 1 enemy. Will ignore 75% of the target’s DEF. Will also ignore [Unkillable] and [Block Damage] buffs. Grants an Extra Turn if this attack kills an enemy. Enemies killed by this skill cannot be revived.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Spurn Oblivion",
+      "description": "Will decrease damage from a single enemy hit so that incoming damage will not exceed 50% of this Champion’s MAX HP from that hit. Can occur once per enemy attack. Grants an Extra Turn if this damage reduction occurs. [Does not work against Bosses] Decreases the damage taken from Bosses by 15%. Decreases the damage taken from Bosses by 30 if Siphi the Lost Bride is on the same team.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rotos_the_Lost_Groom.png"
+}

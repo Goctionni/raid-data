@@ -1,0 +1,70 @@
+{
+  "name": "Prince Kymar",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "18,990",
+    "atk": "1,046",
+    "def": "1,266",
+    "spd": "103",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Phantom Fire",
+      "description": "Attacks all enemies. Places a 5% [Poison] debuff for 1 turn if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Abyssal Gaze",
+      "description": "Attacks all enemies. Removes all buffs. Places a [Sleep] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 6,
+      "dmgscaling": [],
+      "abilityname": "Seal of Magic",
+      "description": "Resets the cooldowns of all ally skills. Fills the Turn Meter of all allies except this Champion by 20%.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in the Arena by 30%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Prince_Kymar.png"
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Soulbond Bowyer",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "13,545",
+    "atk": "1,255",
+    "def": "870",
+    "spd": "96",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Ancestral Guidance",
+      "description": "Attacks all enemies. Has an additional 25% chance of inflicting a critical hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Infused Arrow",
+      "description": "Attacks 1 enemy. Has an additional 25% chance of inflicting a critical hit. Will ignore 75% of the target’s DEF.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Soulbound Shot",
+      "description": "Attacks 1 enemy. Has an additional 25% chance of inflicting a critical hit. Also has a 75% chance of fully depleting the target’s Turn Meter.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Buff/Debuff Chance +5%",
+        "Level 8: Buff/Debuff Chance +10%",
+        "Level 9: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally C. RATE in all Battles by 12%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Soulbond_Bowyer.png"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Soulless",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "19,650",
+    "atk": "1,013",
+    "def": "1,255",
+    "spd": "87",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Bewildering Blow",
+      "description": "Attacks 1 enemy. Has a 35% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Wave of Despair",
+      "description": "Attacks 3 times at random. Each hit has a 75% chance to remove a buff. Places a [Provoke] debuff for 1 turn if a buff is removed.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Reign of Terror",
+      "description": "Attacks all enemies. Increases the duration of all debuffs on each target by 1 turn, then places a [Provoke] debuff on all enemies for 1 turn. Places a [Shield] buff on this Champion for 2 turns equal to 30% of damage inflicted. Damage increases by 10% for each debuff on the target.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Shield +10%",
+        "Level 4: Shield +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 44%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Soulless.png"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Shirimani",
+  "class": {
+    "faction": "High Elves",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "19,980",
+    "atk": "1,167",
+    "def": "1,079",
+    "spd": "104",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Bolts of Cold",
+      "description": "Attacks 3 times at random. Has a 15% chance of placing a [Freeze] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Rejuvenating Wave",
+      "description": "Heals 1 ally by 50% and other allies by 20% of their MAX HP. Places a 15% [Continuous Heal] buff for 2 turns on targets with full HP.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Ice Storm",
+      "description": "Attacks all enemies. Has an 80% chance of placing a [Freeze] debuff for 1 turn. Fills this Champion’s Turn Meter by 10% for each attacked enemy.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Shirimani.png"
+}

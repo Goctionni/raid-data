@@ -1,0 +1,69 @@
+{
+  "name": "Seeker",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "16,845",
+    "atk": "1,002",
+    "def": "1,178",
+    "spd": "103",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Devour",
+      "description": "Attacks 1 enemy 2 times. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%",
+        "Level 8: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Tailwind",
+      "description": "Fills the Turn Meter of all allies by 30%. Places a 50% [Increase ATK] buff on all allies for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Dark Blood",
+      "description": "When critically hit, heals this Champion by 20% HP and places a 60% [Increase DEF] buff on all allies for 2 turns.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in the Arena by 30%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Seeker.png"
+}

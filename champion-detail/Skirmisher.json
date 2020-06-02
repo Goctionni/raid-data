@@ -1,0 +1,69 @@
+{
+  "name": "Skirmisher",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "15,360",
+    "atk": "1,211",
+    "def": "793",
+    "spd": "94",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Twin Shafts",
+      "description": "Attacks 1 enemy 2 times. Inflicts 15% more damage against targets who have no active buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hexed Arrow",
+      "description": "Attacks 1 enemy. Decreases the target’s Turn Meter by 20% if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Dispelling Shot",
+      "description": "Attacks all enemies. Removes 1 random buff from each enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skirmisher.png"
+}

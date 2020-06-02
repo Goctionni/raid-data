@@ -1,0 +1,74 @@
+{
+  "name": "Sinesha",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "17,340",
+    "atk": "892",
+    "def": "1,255",
+    "spd": "101",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Burning Wave",
+      "description": "Attacks all enemies. Places an extra hit on enemies with less than 50% HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Vaporize",
+      "description": "Attacks 1 enemy. Puts the target’s skills on cooldown. Heals the ally with the lowest HP by 25%.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Immortality",
+      "description": "Equalizes the HP of all allies. The HP levels of all allies will be brought up to the level of the ally with the highest HP. Then heals the target ally by 10% of their MAX HP.",
+      "books": [
+        "Level 2: Heal +10%",
+        "Level 3: Heal +10%",
+        "Level 4: Heal +15%",
+        "Level 5: Heal +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Faction Crypts by 31%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sinesha.png"
+}

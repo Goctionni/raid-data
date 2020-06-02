@@ -1,0 +1,72 @@
+{
+  "name": "Sentinel",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,825",
+    "atk": "914",
+    "def": "859",
+    "spd": "86",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "DEF"
+      ],
+      "abilityname": "Hook",
+      "description": "Attacks 1 enemy. Has a 60% chance of placing a [Provoke] debuff for 1 turn if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Glaive Swing",
+      "description": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Regeneration",
+      "description": "Heals this Champion by 10% HP at the start of each turn. This Heal can be critical.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Faction Crypts by 30.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sentinel.png"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Rae",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "15,195",
+    "atk": "1,343",
+    "def": "1,222",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Corrode",
+      "description": "Attacks all enemies. Has a 30% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Arcane Wave",
+      "description": "Attacks all enemies. Inflicts 50% more damage against targets under debuffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +15%"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 6,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Banish",
+      "description": "Attacks all enemies. Removes all buffs. Has a 50% chance of placing a [Freeze] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Dungeons by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rae.png"
+}

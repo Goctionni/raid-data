@@ -1,0 +1,75 @@
+{
+  "name": "Ripper",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,020",
+    "atk": "1,299",
+    "def": "936",
+    "spd": "96",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Scar for Life",
+      "description": "Attacks 1 enemy. Decreases their MAX HP by 10% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "No Quarter",
+      "description": "Attacks 1 enemy 2 times. Damage increases as the target’s HP decreases.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Heavy Slam",
+      "description": "Attacks 1 enemy. Will ignore 50% of the target’s DEF. Decreases their MAX HP by 30% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Force Ally C.RATE in all Battles by 23%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ripper.png"
+}

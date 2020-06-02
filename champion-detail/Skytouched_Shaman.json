@@ -1,0 +1,72 @@
+{
+  "name": "Skytouched Shaman",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "958",
+    "def": "1,123",
+    "spd": "102",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Talon Knives",
+      "description": "Attacks all enemies. Heals by 15% of the damage inflicted if this Champion has less than 50% HP. Boosts this Champion’s Turn Meter by 20% instead if this Champion has 50% HP or higher.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Immortal Skies",
+      "description": "Removes all debuffs from all allies, then places a [Revive On Death] buff and a [Block Debuffs] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Bloodstain Ritual",
+      "description": "Damages this Champion by 10% of their MAX HP at the start of each turn. Heals all allies except this Champion equal to half of the lost HP. Places a 30% [Decrease SPD] debuff on this Champion for 1 turn at the start of each turn. Also has a 50% chance of placing a [Fear] debuff on this Champion for 1 turn. The lost HP refers to the current total HP subtracted from the total MAX HP, instead of the half of 10% MAX HP loss! For example, if her HP is 40%, she heals her allies by 30% of her MAX HP (100 – 40% and then divided by 2 = 30%)",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +5%",
+        "Level 5: Heal +5%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Skytouched_Shaman.png"
+}

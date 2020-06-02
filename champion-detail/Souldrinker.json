@@ -1,0 +1,77 @@
+{
+  "name": "Souldrinker",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "17,340",
+    "atk": "1,299",
+    "def": "848",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Razing Hand",
+      "description": "Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Raining Fire",
+      "description": "Attacks 3 times at random. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Magma Blast",
+      "description": "Attacks all enemies 2 times. Each hit has a 75% chance of placing a [Bomb] that detonates after 3 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Set Ablaze",
+      "description": "Places two [Bomb] debuffs on each enemy that detonate after 2 turns when this Champion dies.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Souldrinker.png"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Rock Breaker",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "18,495",
+    "atk": "716",
+    "def": "1,354",
+    "spd": "91",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "75"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Whirling Hammers",
+      "description": "Attacks 1 enemy. Increases this Champion’s DEF by 4% each time this Skill is used. Stacks up to 20%.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Chest Thump",
+      "description": "Has a 75% chance of placing a [Provoke] debuff on all enemies for 1 turn. Places a [Counterattack] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Iron Hide",
+      "description": "Has a 25% chance of decreasing damage inflicted on this Champion by 50% each time this Champion is attacked.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in the Arena by 30%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Rock_Breaker.png"
+}

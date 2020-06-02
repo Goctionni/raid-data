@@ -1,0 +1,84 @@
+{
+  "name": "Venus",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "22,635",
+    "atk": "1,090",
+    "def": "980",
+    "spd": "112",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Pining",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Blind with Infatuation",
+      "description": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] and a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Burning Passion",
+      "description": "Attacks all enemies. Has a 50% chance of placing a [HP Burn] debuff for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Pure Partner",
+      "description": "Removes all buffs from all enemies. Has a 50% chance of granting an Extra Turn.",
+      "books": [
+        "[Only available when Cupidus is on the same team]"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Venus.png"
+}

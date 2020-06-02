@@ -1,0 +1,81 @@
+{
+  "name": "Valla",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "16,845",
+    "atk": "771",
+    "def": "1,409",
+    "spd": "99",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Piercing Blade",
+      "description": "Attacks 1 enemy 2 times. Increases the inflicted damage by 15% if the target is under a [Shield] buff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Crush The Wall",
+      "description": "Removes all [Shield] buffs on all enemies, then attacks all enemies. Has a 30% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Fortified Core",
+      "description": "Places a [Shield] buff on this Champion for 3 turns equal to 20% of their MAX HP. Also places a 60% [Increase DEF] buff on this Champion for 3 turns and fills this Champion’s Turn Meter by 50%.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Resolute Defense",
+      "description": "Decreases the damage received by this Champion by 15% while under a [Shield] buff.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in the Arena by 45.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Valla.png"
+}

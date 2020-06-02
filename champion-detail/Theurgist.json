@@ -1,0 +1,72 @@
+{
+  "name": "Theurgist",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "18,495",
+    "atk": "947",
+    "def": "848",
+    "spd": "103",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Ice Debris",
+      "description": "Attacks 1 enemy. Fills the Turn Meter of a random ally by 10%",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Touch of Sealing",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Block Buffs] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Uplift",
+      "description": "Places a 30% [Increase DEF] buff and a 25% [Increase ATK] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Faction Crypts by 30.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Theurgist.png"
+}

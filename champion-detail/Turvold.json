@@ -1,0 +1,72 @@
+{
+  "name": "Turvold",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,505",
+    "atk": "1,498",
+    "def": "914",
+    "spd": "93",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Crackling Blade",
+      "description": "Attacks 1 enemy 2 times. Has a 55% chance of placing a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Ancestor’s Power",
+      "description": "Places a 50% [Increase ATK] buff, a 30% [Increase C.RATE] buff and a 30% [Increase SPD] buff on this Champion for 2 turns. Grants an Extra Turn.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Juggernaut",
+      "description": "Attacks 1 enemy 2 times. Damage increases according to the number of buffs on this Champion. If the target is killed, resets the cooldown of this skill.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in Faction Crypts by 42%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Turvold.png"
+}

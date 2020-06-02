@@ -1,0 +1,64 @@
+{
+  "name": "Temptress",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "11,565",
+    "atk": "1,343",
+    "def": "914",
+    "spd": "99",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sly Slice",
+      "description": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Flying Daggers",
+      "description": "Attacks 4 times at random. Each hit has a 50% chance of placing a [Leech] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Vicious Partner",
+      "description": "Places a 50% [Increase ATK] and a 30% [Increase C.RATE] buff on this Champion for 2 turns. Grants an Extra Turn when Seducer is on the same team.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Temptress.png"
+}

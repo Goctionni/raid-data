@@ -1,0 +1,85 @@
+{
+  "name": "Vizier Ovelis",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,350",
+    "atk": "1,476",
+    "def": "1,013",
+    "spd": "101",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Accursed Blades",
+      "description": "Attacks 1 enemy 3 times. Each hit has a 35% chance of increasing the duration of all debuffs by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Master of Misery",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 50% chance of placing a [Block Buffs] debuff, a 50% [Decrease ATK] debuff, and a 100% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Vizier of Poisons",
+      "description": "Attacks 1 enemy. Applies a [Debuff Spread] effect, taking 2 random debuffs from the target and placing them on all enemies. Places a [Perfect Veil] buff on this Champion for 3 turns if the target is under 2 or more debuffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Unseen Assassin",
+      "description": "Places a [Perfect Veil] buff on this champion for 2 turns at the start of each round.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally Attack in Dungeons by 34%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Vizier_Ovelis.png"
+}

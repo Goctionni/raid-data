@@ -1,0 +1,72 @@
+{
+  "name": "Valkyrie",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "17,835",
+    "atk": "793",
+    "def": "1,597",
+    "spd": "104",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "DEF"
+      ],
+      "abilityname": "Denigration",
+      "description": "Attacks 1 enemy 2 times. Decrease Turn Meter by 10% on each hit if the target has any buffs.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Damage +5%",
+        "Level: 6 Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Stand Firm",
+      "description": "Attacks all enemies. Places a [Shield] buff on all allies for 3 turns and a [Counterattack] buff on all allies for 2 turns. The value of [Shield] and the damage inflicted are proportional to this Champion’s DEF.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Shield +10%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Shield +10%",
+        "Level: 6 Damage +10%",
+        "Level: 7 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Jealousy",
+      "description": "This Champion’s Turn Meter will be increased by 10% each time an enemy Champion places a buff. Enemy Champions will have their Turn Meters decreased by 10% for each buff they receive.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Valkyrie.png"
+}

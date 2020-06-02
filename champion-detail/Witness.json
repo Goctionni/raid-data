@@ -1,0 +1,73 @@
+{
+  "name": "Witness",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "1,134",
+    "def": "903",
+    "spd": "103",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Long Shot",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Support Fire",
+      "description": "Attacks 1 enemy. Places a 30% [Increase DEF] buff on the ally with the lowest HP for 3 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1",
+        "Level 6: Damage +10%"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Prayer of Comfort",
+      "description": "Places a [Block Debuffs] buff on all allies for 1 turn. Places a [Shield] buff equal to 30% of this Champion’s MAX HP on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Faction Crypts by 30.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Witness.png"
+}

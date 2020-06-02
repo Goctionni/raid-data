@@ -1,0 +1,85 @@
+{
+  "name": "Towering Titan",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "23,790",
+    "atk": "760",
+    "def": "958",
+    "spd": "98",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Shieldsplitter",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Flailing Assault",
+      "description": "Attacks 4 times at random. Has a 50% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Bullish Vitality",
+      "description": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Places a 15% [Continuous Heal] buff on this Champion for 2 turns, as well as a [Shield] buff on this Champion equal to 30% of their MAX HP for 2 turns.",
+      "books": [
+        "Level 2: Shield +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Shield +10%",
+        "Level 5: Shield +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Battle Brothers",
+      "description": "Will transfer 50% of the damage inflicted on Cagebreaker to this Champion during battle. [Only available when Cagebreaker is on the same team. If multiple Cagebreakers are on the same team, this Champion will only transfer damage from one of them]",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Towering_Titan.png"
+}

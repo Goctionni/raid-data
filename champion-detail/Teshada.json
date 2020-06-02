@@ -1,0 +1,78 @@
+{
+  "name": "Teshada",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,350",
+    "atk": "826",
+    "def": "1,387",
+    "spd": "96",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Savage Fury",
+      "description": "Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Maximum Carnage",
+      "description": "Attacks 3 times at random. Each hit has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Spirit Appeasement",
+      "description": "Attacks 1 enemy. Revives a random ally with 40% HP if this attack kills the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Faction Crypts by 20%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Teshada.png"
+}

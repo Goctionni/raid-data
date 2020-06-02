@@ -1,0 +1,37 @@
+{
+  "name": "Troglodyte",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Common",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "12,885",
+    "atk": "1,255",
+    "def": "639",
+    "spd": "89",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Acid Blade",
+      "description": "Attacks 1 enemy 2 times. Has a 20% chance of placing a 25% [Decrease ATK] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Troglodyte.png"
+}

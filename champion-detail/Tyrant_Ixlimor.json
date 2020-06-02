@@ -1,0 +1,80 @@
+{
+  "name": "Tyrant Ixlimor",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "21,975",
+    "atk": "771",
+    "def": "1,343",
+    "spd": "103",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Feast of Flame",
+      "description": "Attacks 1 enemy. Heals this Champion by 25% of the damage inflicted. Heals this Champion by 50% of the damage inflicted instead if the target is under a [HP Burn] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Hellfire Torrent",
+      "description": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff on all enemies for 3 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Infernal Minions",
+      "description": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a 60% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Fires of Doom",
+      "description": "Decreases damage inflicted by enemies under [HP Burn] debuffs by 10%.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 25 %.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tyrant_Ixlimor.png"
+}

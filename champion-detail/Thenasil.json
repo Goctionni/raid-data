@@ -1,0 +1,74 @@
+{
+  "name": "Thenasil",
+  "class": {
+    "faction": "High Elves",
+    "rarity": "Epic",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "17,835",
+    "atk": "991",
+    "def": "1,123",
+    "spd": "105",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Spring Lullaby",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Oak-Skinned",
+      "description": "Places a 60% [Increase DEF] buff on all allies for 2 turns. Heals all allies by 25% of this Champion’s MAX HP.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Wither",
+      "description": "Attacks all enemies. Decreases the duration of all enemy buffs by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Dungeons by 70.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Thenasil.png"
+}

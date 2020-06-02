@@ -1,0 +1,68 @@
+{
+  "name": "Umbral Enchantress",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "15,360",
+    "atk": "925",
+    "def": "1,354",
+    "spd": "93",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Essence Scepter",
+      "description": "Attacks 1 enemy. Damage increases as current HP decreases.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Immolate",
+      "description": "Attacks all enemies. Has an 80% chance of placing a [Block Buffs] debuff for 3 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Undying Evil",
+      "description": "Attacks all enemies. Has an 80% chance of placing a [Provoke] debuff for 2 turns. Places an [Unkillable] buff on this Champion for 2 turns. Places a [Block Cooldown Skills] debuff on this Champion for 5 turns. The [Block Cooldown Skills] debuff cannot be resisted or blocked and cannot be removed.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Umbral_Enchantress.png"
+}

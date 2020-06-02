@@ -1,0 +1,73 @@
+{
+  "name": "Wurlim Frostking",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "19,650",
+    "atk": "1,035",
+    "def": "1,233",
+    "spd": "100",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Winds of Winter",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn. Places a [Perfect Veil] buff on the ally with the lowest HP for 1 turn if the [Freeze] debuff is placed.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Frostbite Blast",
+      "description": "Attacks all enemies. Has a 70% chance of placing a 30% [Decrease C.DMG] debuff for 2 turns. Places a 30% [Increase C.DMG] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Icegrave Armor",
+      "description": "Places a 25% [Strengthen] buff and a 60% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in the Arena by 30%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Wurlim_Frostking.png"
+}

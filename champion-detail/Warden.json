@@ -1,0 +1,83 @@
+{
+  "name": "Warden",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "17,340",
+    "atk": "870",
+    "def": "1,277",
+    "spd": "98",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Deathmark",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a 15% [Weaken] debuff for 1 turn.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Buff/Debuff Chance +10%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Buff/Debuff Chance +10%",
+        "Level: 6 Buff/Debuff Chance +20%",
+        "Level: 7 Damage +10%",
+        "Level: 8 Buff/Debuff Chance +20%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Rending Flames",
+      "description": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Places a 30% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level: 2 Damage +10%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Buff/Debuff Chance +5%",
+        "Level: 5 Buff/Debuff Chance +10%",
+        "Level: 6 Damage +10%",
+        "Level: 7 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "DEF"
+      ],
+      "abilityname": "Wall of Thorns",
+      "description": "Attacks all enemies 1 time. Places a 30% [Reflect Damage] buff on all allies for 2 turns.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +10%",
+        "Level: 5 Cooldown -1",
+        "Level: 6 Cooldown -1",
+        "Level: 7 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in the Arena by 30%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Warden.png"
+}

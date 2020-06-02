@@ -1,0 +1,80 @@
+{
+  "name": "Veteran",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "15,360",
+    "atk": "683",
+    "def": "1,321",
+    "spd": "97",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Disarm",
+      "description": "Attacks 1 enemy 2 times. Has a 35% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Damage +15%",
+        "Level 6: Buff/Debuff Chance 10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Head Hunter",
+      "description": "Attacks 1 enemy. Places a 30% [Increase C.RATE] buff on all allies for 3 turns if the target is killed.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%",
+        "Level 6: Damage +15%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF",
+        "HP"
+      ],
+      "abilityname": "Massacre",
+      "description": "Attacks all enemies. Has a 50% chance of placing a [Block Buffs] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in Dungeons by 15%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Veteran.png"
+}

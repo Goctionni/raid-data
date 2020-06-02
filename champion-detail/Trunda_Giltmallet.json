@@ -1,0 +1,83 @@
+{
+  "name": "Trunda Giltmallet",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "22,800",
+    "atk": "1,608",
+    "def": "980",
+    "spd": "100",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "80"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Golden Mallet",
+      "description": "Attacks 1 enemy 2 times. Has a 50% chance of placing a [Stun] debuff for 1 turn after the second hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Cloak of Ages",
+      "description": "Attacks 1 enemy, then attacks all other enemies with a second hit, dealing 60% of the damage inflicted from the first hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 5,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Forge Rhythm",
+      "description": "Attacks all enemies. Has a 70% chance of placing a [Stun] debuff for 1 turn. Places a [HP Burn] debuff for 2 turns on enemies under [Stun] debuffs. Places an extra hit on enemies not under [Stun] debuffs.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Swift Justice",
+      "description": "This Champion’s RES increases by 10 for each [Stun] debuff this Champion places on enemies. Stacks across each round in a battle, up to 100. This Champion’s SPD increases by 5 for each enemy currently under a [HP Burn] debuff. Only counts active [HP Burn] debuffs. Stacks up to 15.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Magic Ally ATK in all Battles by 36%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Trunda_Giltmallet.png"
+}

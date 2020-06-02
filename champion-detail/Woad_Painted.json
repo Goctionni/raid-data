@@ -1,0 +1,65 @@
+{
+  "name": "Woad-Painted",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "19,815",
+    "atk": "1,013",
+    "def": "969",
+    "spd": "92",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Crossup",
+      "description": "Attacks 1 enemy 2 times. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Undying Fury",
+      "description": "Removes all debuffs from this Champion, then fully heals this Champion. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Overpower",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Block Cooldown Skills] debuff for 2 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Woad_Painted.png"
+}

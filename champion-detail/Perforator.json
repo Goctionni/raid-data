@@ -1,0 +1,65 @@
+{
+  "name": "Perforator",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,165",
+    "atk": "1,432",
+    "def": "661",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "60"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Vermin Slayer",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a 5% [Poison] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hardened Tips",
+      "description": "Attacks 1 enemy. Ignores 50% of the target’s DEF. Grants an Extra Turn if this attack kills an enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 1,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Scare Off",
+      "description": "Has a 35% chance of placing a [Fear] debuff on the target for 1 turn when this Champion inflicts a critical hit.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Perforator.png"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Metalshaper",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "16,350",
+    "atk": "859",
+    "def": "1,079",
+    "spd": "90",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "57",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Transference Bolt",
+      "description": "Attacks 1 enemy. Has a 30% chance of stealing 1 random buff from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Fortified Steel",
+      "description": "Places a [Shield] buff on all allies for 2 turns. The value of [Shield] is proportional to this Champion’s Level.",
+      "books": [
+        "Level 2: Shield +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Shield +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Rescue",
+      "description": "Removes all debuffs from an ally with the lowest HP, then heals this ally by 20% of this Champion’s MAX HP. Places a 25% [Increase DEF] buff on the target for 3 turns.",
+      "books": [
+        "Level 2: Heal +10%",
+        "Level 3: Heal +10%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 15%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Metalshaper.png"
+}

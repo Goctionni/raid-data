@@ -1,0 +1,75 @@
+{
+  "name": "Muckstalker",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "20,475",
+    "atk": "903",
+    "def": "760",
+    "spd": "101",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Pounce",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Damage +10%",
+        "Level 7: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Strangle",
+      "description": "Attacks 1 enemy. Places a [Sleep] debuff for 2 turns if the target has no active buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Herbal Balm",
+      "description": "Places a 15% [Continuous Heal] buff on this Champion for 2 turns if incoming damage exceeds 20% HP in one attack.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Faction Crypts by 22%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Muckstalker.png"
+}

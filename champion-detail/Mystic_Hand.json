@@ -1,0 +1,73 @@
+{
+  "name": "Mystic Hand",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,615",
+    "atk": "804",
+    "def": "1,123",
+    "spd": "88",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Tainted Blade",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Turn the Tide",
+      "description": "Attacks 1 enemy. Steals 2 random buffs from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Soul Link",
+      "description": "Heals the Ally with the lowest HP by 25%, then equalizes the HP levels of all allies.",
+      "books": [
+        "Level 2: Heal +5%",
+        "Level 3: Heal +5%",
+        "Level 4: Heal +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 25%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mystic_Hand.png"
+}

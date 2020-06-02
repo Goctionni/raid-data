@@ -1,0 +1,71 @@
+{
+  "name": "Maulie Tankard",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "18,495",
+    "atk": "881",
+    "def": "1,465",
+    "spd": "107",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "80"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Roast",
+      "description": "Attacks 1 enemy. Damage increases by 50% if the target is under a [HP Burn] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Bar Brawl",
+      "description": "Places a [Provoke] debuff on all enemies for 1 turn. Has a 50% chance of placing a [Provoke] debuff on the target for 2 turns instead. Places a 30% [Reflect Damage] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Cheers!",
+      "description": "Revives an ally with 50% HP and fills their Turn Meter by 50%. Places a [Block Damage] buff on that ally for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 1,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Rowdy Crowd",
+      "description": "Fills the Turn Meters of all allies by 15% when this Champion is hit. Fills the Turn Meters of all allies by 25% when this Champion is hit by a Boss.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maulie_Tankard.png"
+}

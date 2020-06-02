@@ -1,0 +1,71 @@
+{
+  "name": "Peydma",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,670",
+    "atk": "826",
+    "def": "1,299",
+    "spd": "101",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Agonize",
+      "description": "Attacks 1 enemy 2 times. If this attack is critical, has an 85% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Flesh Warp",
+      "description": "Attacks all enemies. Has a 35% chance of placing a 50% [Decrease ACC] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 2: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Appropriate",
+      "description": "Attacks 1 enemy. Removes all buffs from the target and places them on this Champion.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Cooldown -1",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Peydma.png"
+}

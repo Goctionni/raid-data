@@ -1,0 +1,67 @@
+{
+  "name": "Oathbound",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "782",
+    "def": "1,299",
+    "spd": "88",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Shatter",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a [Freeze] debuff for 1 turn.",
+      "books": [
+        "Level: 2 Damage +10%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Buff/Debuff Chance +10%",
+        "Level: 5 Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Subjugate",
+      "description": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has a 55% chance of decreasing each target’s Turn Meter by 20%.",
+      "books": [
+        "Level: 2 Buff/Debuff Chance +5%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Damage +10%",
+        "Level: 5 Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Intimidate",
+      "description": "Attacks at random 4 times. Each attack has a 30% chance of placing a [Block Cooldown Skills] debuff for 2 turns. The chance of the [Block Cooldown Skills] debuff increases to 100% if the target is under a [Decrease ATK] debuff.",
+      "books": [
+        "Level: 2 Buff/Debuff Chance +5%",
+        "Level: 3 Buff/Debuff Chance +5%",
+        "Level: 4 Buff/Debuff Chance +10%",
+        "Level: 5 Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Oathbound.png"
+}

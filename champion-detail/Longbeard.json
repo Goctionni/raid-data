@@ -1,0 +1,67 @@
+{
+  "name": "Longbeard",
+  "class": {
+    "faction": "Skinwalkers",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "17,835",
+    "atk": "1,409",
+    "def": "980",
+    "spd": "97",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Unstoppable Force",
+      "description": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] debuffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Brittleness Curse",
+      "description": "Attacks 1 enemy. Places a 25% [Weaken] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Horde’s Fury",
+      "description": "Attacks 1 enemy with 4 allies. Increases the damage inflicted by allies by 20%.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally C. Rate in Dungeons by 23%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Longbeard.png"
+}

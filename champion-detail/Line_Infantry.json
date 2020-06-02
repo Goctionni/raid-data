@@ -1,0 +1,58 @@
+{
+  "name": "Line Infantry",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Uncommon",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "13,380",
+    "atk": "738",
+    "def": "1,123",
+    "spd": "87",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF",
+        "ATK"
+      ],
+      "abilityname": "Spear Goad",
+      "description": "Attacks 1 enemy. Has a 10% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%",
+        "Level 7: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Rabble Rouser",
+      "description": "Attacks 2 times at random. Has a 25% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%",
+        "Level 6: Buff/Debuff Chance +5%",
+        "Level 7: Buff/Debuff Chance +10%",
+        "Level 8: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Line_Infantry.png"
+}

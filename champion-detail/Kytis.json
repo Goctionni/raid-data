@@ -1,0 +1,76 @@
+{
+  "name": "Kytis",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "1,222",
+    "def": "1,090",
+    "spd": "95",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Soul Reaper",
+      "description": "Attacks 1 enemy. Has an 85% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Spikes",
+      "description": "Places a 50% [Increase ATK] buff on this Champion for 2 turns, then attacks 4 times at random. The attacks will be critical if the target has any buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Bleeding Wounds",
+      "description": "Attacks all enemies 2 times. Damage increases according to the amount of HP this Champion has lost. This is a secret Skill and only becomes available when this Champion has lost 50% of their HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in the Arena by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kytis.png"
+}

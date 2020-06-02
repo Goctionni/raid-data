@@ -1,0 +1,83 @@
+{
+  "name": "Mortu-Macaab",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "23,130",
+    "atk": "1,145",
+    "def": "892",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "63",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Stigmata",
+      "description": "Attacks 1 enemy. Has a 60% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Damage +15%",
+        "Level 6: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Falling from Grace",
+      "description": "Attacks all enemies 2 times. Each hit has a 90% chance of placing a [Block Buffs] debuff for 2 turns. The [Block Buffs] debuff cannot be resisted if a target is under a [Heal Reduction] debuff.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Fiery Rage",
+      "description": "Has a 20% chance to unlock a secret skill, Peril, for 1 turn. Also has a 20% chance to fill this Champion’s Turn Meter by 25% when attacked.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Peril",
+      "description": "Attacks 1 enemy 2 times. Will ignore [Shield] and [Block Damage] buffs as well as DEF. Enemies killed by this skill cannot be revived.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in all Battles by 24%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Mortu_Macaab.png"
+}

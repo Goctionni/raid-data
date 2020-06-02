@@ -1,0 +1,72 @@
+{
+  "name": "Lord Champfort",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "22,305",
+    "atk": "1,079",
+    "def": "1,013",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "40"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Annihilating Hit",
+      "description": "Attacks 1 enemy. Has a 45% chance of placing a 60% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Earthshaker",
+      "description": "Attacks all enemies. Places a 50% [Decrease ACC] debuff and a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 2,
+      "mincd": 2,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Thornsphere",
+      "description": "At the start of each turn, places a [Shield] buff on this Champion equal to 20% of their MAX HP for 2 turns. Will place a 15% [Decrease SPD] debuff for 1 turn on whichever enemy attacks this Champion.",
+      "books": [
+        "Level 2: Cooldown: -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 50%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lord_Champfort.png"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Lightsworn",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "16,350",
+    "atk": "738",
+    "def": "1,476",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Teardown",
+      "description": "Attacks 1 enemy 3 times. Decreases the target’s Turn Meter by 10%",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Brutality",
+      "description": "Attacks 1 enemy. Places a 50% [Decrease ATK] debuff and a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Indomitable",
+      "description": "Places a 60% [Increase DEF] buff and a [Revive On Death] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lightsworn.png"
+}

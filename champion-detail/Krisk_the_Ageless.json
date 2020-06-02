@@ -1,0 +1,79 @@
+{
+  "name": "Krisk the Ageless",
+  "class": {
+    "faction": "Lizardmen",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "19,485",
+    "atk": "760",
+    "def": "1,520",
+    "spd": "94",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "50"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Enter the Morass",
+      "description": "Attacks all enemies. Has a 30% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Centuried Vigor",
+      "description": "Attacks all enemies. Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places two 15% [Continuous Heal] buffs on this Champion for 1 turn. Increases the duration of all ally buffs by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Damage +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Invincible Shell",
+      "description": "Places a [Provoke] debuff on all enemies for 1 turn. Places a 60% [Increase DEF] buff on this Champion for 2 turns. Places a 30% [Increase SPD] buff on all allies except this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Might of Ages",
+      "description": "At the start of each Round, places a [Shield] buff on all allies for 2 turns equal to 50% of this Champion’s MAX HP. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 50% [Decrease ATK]",
+      "books": [
+        "debuff on the attacker for 1 turn when hit.",
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +10%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Krisk_the_Ageless.png"
+}

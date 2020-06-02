@@ -1,0 +1,68 @@
+{
+  "name": "Lua",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "14,535",
+    "atk": "1,564",
+    "def": "771",
+    "spd": "97",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "60",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Splinter Arrow",
+      "description": "Attacks 1 enemy. Deals 50% of the inflicted damage to all enemies if this attack is critical.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Hail of Arrows",
+      "description": "Attacks all enemies 3 times. Each critical hit heals this Champion by 2.5% HP.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Lucky Shot",
+      "description": "Attacks 1 enemy. This attack fully depletes the Turn Meter. Will ignore [Shield] and [Block Damage] buffs.",
+      "books": [
+        "Level: 2 Damage +5%",
+        "Level: 3 Damage +5%",
+        "Level: 4 Damage +5%",
+        "Level: 5 Damage +5%",
+        "Level: 6 Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Lua.png"
+}

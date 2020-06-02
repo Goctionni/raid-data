@@ -1,0 +1,63 @@
+{
+  "name": "Occult Brawler",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "20,640",
+    "atk": "1,101",
+    "def": "826",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Sorcerous Razor",
+      "description": "Attacks 1 enemy. Has a 50% chance of placing a 5% [Poison] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Curse Eater",
+      "description": "Attacks 1 enemy. If this Champion is under 1 or more debuffs, this attacks ignores 30% of enemy DEF. If this Champion is under 2 or more debuffs, enemies killed by this Skill cannot be revived. If this Champion is under 3 or more debuffs, this attacks is always critical. If this Champion is under 4 or more debuffs, this Champion heals by 30% of the damage inflicted. If this Champion is under 5 or more debuffs, grants an Extra Turn. Removes all debuffs from this Champion after the attack.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Ruination Ritual",
+      "description": "Places a 2.5% [Poison] debuff on this Champion for 4 turns at the start of each turn. Has a 70% chance of placing a 5% [Poison] debuff on a random enemy for 4 turns at the start of each turn.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Occult_Brawler.png"
+}

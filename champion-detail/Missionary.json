@@ -1,0 +1,77 @@
+{
+  "name": "Missionary",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "19,485",
+    "atk": "969",
+    "def": "1,035",
+    "spd": "96",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Crashing Halberd",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "In the Thick",
+      "description": "Attacks 1 enemy. Has a 40% chance of placing a [Provoke] debuff for 1 turn. Has a 100% chance of placing a [Provoke] debuff for 1 turn if this Champion’s current HP is higher than the target’s current HP.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK",
+        "HP"
+      ],
+      "abilityname": "Humble the Faithless",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns. Also has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 33%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Missionary.png"
+}

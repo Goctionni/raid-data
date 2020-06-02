@@ -1,0 +1,72 @@
+{
+  "name": "Maneater",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "20,310",
+    "atk": "837",
+    "def": "1,112",
+    "spd": "98",
+    "crate": "RATE",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "45"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Pummel",
+      "description": "Attacks 1 enemy. Places a 50% [Decrease ATK] debuff on all enemies if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Syphon",
+      "description": "Attacks 1 enemy. Fully depletes the target’s Turn Meter. Fills this Champion’s Turn Meter equal to the amount the target loses.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 7,
+      "mincd": 5,
+      "dmgscaling": [],
+      "abilityname": "Ancient Blood",
+      "description": "This Champion receives damage, then places an [Unkillable] buff and a [Block Debuffs] buff on all allies for 2 turns. Damage received is equal to 5% MAX HP for each alive ally.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in Dungeons by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Maneater.png"
+}

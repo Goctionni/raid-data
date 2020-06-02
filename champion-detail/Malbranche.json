@@ -1,0 +1,77 @@
+{
+  "name": "Malbranche",
+  "class": {
+    "faction": "Demonspawn",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "1,321",
+    "def": "716",
+    "spd": "111",
+    "crate": "Rate",
+    "cdmg": "15",
+    "resist": "50",
+    "acc": "30"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Gathering Inferno",
+      "description": "Attacks 1 enemy. Decreases [Bomb] debuff detonation countdowns by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Bident Mastery",
+      "description": "Attacks 1 enemy 2 times. Places a [Counterattack] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Demonic Explosives",
+      "description": "Attacks 1 enemy. Has a 60% chance of placing a [Bomb] debuff that detonates after 3 turns.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%",
+        "Level 7: Cooldown -1",
+        "Level 8: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally SPD in the Arena by 16%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Malbranche.png"
+}

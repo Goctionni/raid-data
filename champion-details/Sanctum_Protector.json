@@ -1,0 +1,62 @@
+{
+  "name": "Sanctum Protector",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Defense",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "15,360",
+    "atk": "804",
+    "def": "1,200",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "40",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["DEF"],
+      "abilityname": "Repel Intruders",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["DEF"],
+      "abilityname": "Hallowed Ground",
+      "description": "Attacks all enemies, then places a 30% [Increase DEF] buff on all allies for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["DEF"],
+      "abilityname": "False Bravado",
+      "description": "Attacks 1 enemy. Has a 70% chance of placing a [Provoke] debuff for 1 turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Sanctum_Protector.png"
+}

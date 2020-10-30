@@ -1,0 +1,64 @@
+{
+  "name": "Draconis",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,835",
+    "atk": "914",
+    "def": "925",
+    "spd": "100",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Beneficence",
+      "description": "Attacks 1 enemy. Heals the ally with the lowest HP by 7.5% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Heal +5%",
+        "Level 5: Heal+5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Sacred Wards",
+      "description": "Places a [Shield] buff on all allies equal to 15% of this Champion’s MAX HP for 2 turns.",
+      "books": [
+        "Level 2: Shield +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Shield +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Order of Mercy",
+      "description": "Attacks 1 enemy. Removes all debuffs from the ally with the lowest HP, then heals them by 25% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Draconis.png"
+}

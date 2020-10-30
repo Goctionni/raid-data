@@ -1,0 +1,61 @@
+{
+  "name": "Baroth the Bloodsoaked",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Epic",
+    "role": "HP",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "20,475",
+    "atk": "826",
+    "def": "1,112",
+    "spd": "98",
+    "crate": "15",
+    "cdmg": "50",
+    "resist": "45",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["HP"],
+      "abilityname": "Gilded Weapons",
+      "description": "Attacks 1 enemy 2 times. The first hit has a 20% chance of filling this Champion’s Turn Meter by 10%. The second hit has a 20% chance of decreasing the target’s Tum Meter by 10%.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["HP"],
+      "abilityname": "Splattering Hacks",
+      "description": "Attacks 1 enemy 2 times. The first hit places a [Shield] equal to 25% of the damage inflicted on all allies for 2 turns. The second hit heals all allies by 10% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 4,
+      "dmgscaling": ["HP"],
+      "abilityname": "Serpent Axes",
+      "description": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns and a 75% chance of removing any [Increase ATK] buffs from the target. The second hit has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns and a 75% chance of removing any [Increase DEF] buffs from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Baroth_the_Bloodsoaked.png"
+}

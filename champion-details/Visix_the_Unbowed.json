@@ -1,0 +1,71 @@
+{
+  "name": "Visix the Unbowed",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,175",
+    "atk": "958",
+    "def": "1,476",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "50",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Flanged Mace",
+      "description": "Attacks 1 enemy 2 times. Each hit has an 80% chance of decreasing the target’s Turn Meter by 10%. Fills this Champion’s Turn Meter equal to the amount the target loses.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Sinister Allies",
+      "description": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Places a [Shield] buff for 2 turns on this Champion equal to 20% of their MAX HP for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Single Combat",
+      "description": "Places a [Provoke] debuff on the target for 1 turn. Also places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally DEF in Faction Crypts by 37%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Visix_the_Unbowed.png"
+}

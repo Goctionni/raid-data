@@ -1,0 +1,64 @@
+{
+  "name": "Renouncer",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "12,855",
+    "atk": "1,255",
+    "def": "914",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "10"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Redoubled Effort",
+      "description": "Attacks 1 enemy 2 times.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Shining Sword",
+      "description": "Removes one random debuff from this Champion, then attacks 1 enemy. Heals this Champion by 25% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Batlefield Grace",
+      "description": "Attacks 1 enemy. Places a 15% [Increase SPD] buff on all allies for 2 turns if this attack kills an enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Renouncer.png"
+}

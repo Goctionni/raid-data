@@ -1,0 +1,74 @@
+{
+  "name": "Kantra the Cyclone",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Legendary",
+    "role": "Defense",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "18,330",
+    "atk": "815",
+    "def": "1,542",
+    "spd": "99",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "40",
+    "acc": "20"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Bane Hatchet",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 40% chance of stealing 1 random buff from the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Chaos Tempest",
+      "description": "Attacks all enemies 3 times. Each hit has a 50% chance of placing one of the following debuffs for 2 turns: a [Block Buffs] debuff, a 50% [Decrease ATK] debuff, a 30% [Decrease SPD] debuff, a 25% [Weaken] debuff, a 50% [Decrease ACC] debuff, or a 100% [Heal Reduction] debuff.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "No Escape",
+      "description": "Decreases each enemy’s ACC by 10 for each debuff they are under. This Champion will receive 4% less damage for each debuff on the attacker. Heals this Champion by 1,250 HP each time a debuff expires on",
+      "books": [
+        "an enemy. Has a 75% chance of placing a Provoke debuff for 1 turn on enemies under 5 or more debuffs at the start of this Champion’s turn. This Champion can place debuffs on weak hits."
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ACC in all Battles by 60.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kantra_the_Cyclone.png"
+}

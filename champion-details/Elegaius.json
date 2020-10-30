@@ -1,0 +1,69 @@
+{
+  "name": "Elegaius",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "22,305",
+    "atk": "881",
+    "def": "1,211",
+    "spd": "106",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "30",
+    "acc": "20"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["HP"],
+      "abilityname": "Spirits of Spite",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn. The chance increases by 0.75% for every 1% of HP this Champion loses.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["HP"],
+      "abilityname": "Dead Stop",
+      "description": "Attacks 1 enemy. Puts the target's skills on cooldown. If the enemy team has any duplicates of the target Champion, wil also put all their skills on cooldown.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["HP"],
+      "abilityname": "Ghost Rage",
+      "description": "Attacks all enemies. Has a 75% chance of removing 2 random buffs. Has a 75% chance of decreasing all enemies's Turn Meters by 20%. Decreases enemy Turn Meters by a further 0.2% for every 1% of HP this Champion loses.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 5,
+      "dmgscaling": ["Passive"],
+      "abilityname": "Spurned by Death",
+      "description": "Prevents this Champion's death and keeps them alive on 1 HP when hit by a fatal hit. If this skill prevents this Champion's death, heals them by 10% of their MAX HP, fills their Turn Meter by 20%, and places a [Shield] buff on them equal to 30% of their MAX HP for 2 turns. Will not prevent this Champion's death if they are under a [Heal Reduction] debuff.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ]
+}

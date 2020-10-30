@@ -11,10 +11,10 @@
     "atk": "892",
     "def": "1,222",
     "spd": "92",
-    "crate": "RATE",
-    "cdmg": "15",
-    "resist": "63",
-    "acc": "30"
+    "crate": "15%",
+    "cdmg": "63%",
+    "resist": "30",
+    "acc": "0"
   },
   "skills": [
     {

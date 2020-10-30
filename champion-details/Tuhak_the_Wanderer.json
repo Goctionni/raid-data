@@ -1,0 +1,88 @@
+{
+  "name": "Tuhak the Wanderer",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "16,020",
+    "atk": "1,365",
+    "def": "870",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "60%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Unfair Fight",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 30% chance of increasing the cooldown of one of the target’s Skills by 1 turn at random. Increases the cooldowns of all of the target’s Skills by 1 turn instead ifthis Champion has less than 50% HP when attacking on each hit.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Whirl of Battle",
+      "description": "Attacks all enemies. Has a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Also places a 30% [Increase SPD] buff on this Champion for 2 turns. Heals this Champion by 15% of the damage inflicted if they have less than 50% HP when attacking.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Clever Brutality",
+      "description": "Attacks 1 enemy. Steals 50% of the target’s current Turn Meter. Has a 75% chance of placing a [Stun] debuff for 2 turns. Steals 100% of the target’s Turn Meter if this Champion has less than 50% HP when attacking.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Iron heart",
+      "description": "Decreases the damage taken by this Champion by 20% when their HP drops below 60%.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all battles by 22%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Tuhak_the_Wanderer.png"
+}

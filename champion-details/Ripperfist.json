@@ -1,0 +1,60 @@
+{
+  "name": "Ripperfist",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "13,380",
+    "atk": "1,398",
+    "def": "738",
+    "spd": "94",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Mangler Gauntlet",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Damage +5%",
+        "Level 8: Buff/Debuff Chance +5%",
+        "Level 9: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Rip to Shreds",
+      "description": "Level 2: Damage +5%",
+      "books": [
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["Passive"],
+      "abilityname": "Bloody Mess",
+      "description": "Places a 25% [Increase ATK] buff on this Champion for 1 turn and decreases the cooldown of the Rip to Shreds skill every time this Champion’s HP drops below 50%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ripperfist.png"
+}

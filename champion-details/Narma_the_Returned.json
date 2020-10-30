@@ -1,0 +1,72 @@
+{
+  "name": "Narma the Returned",
+  "class": {
+    "faction": "Knight Revenant",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "19,815",
+    "atk": "1,002",
+    "def": "1,255",
+    "spd": "100",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "30",
+    "acc": "20"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Hell Crescent",
+      "description": "Attacks 1 enemy. Has a 40% chance of increasing the duraction of 3 random debuffs on the target by 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Weirding Dance",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 3 turns. Also heals all allies by 15% of this Champion's MAX HP. The heal increases by 2% for each [Poison] debuff on the target.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Toxin Trance",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing three 5% [Poison] debuffs and a 25% [Poison Sensitivity] debuff for 3 turns.",
+      "books": [
+        "Level 2: Damage +15%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1",
+        "Levle 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ACC in Dungeons by 80.",
+      "books": []
+    }
+  ]
+}

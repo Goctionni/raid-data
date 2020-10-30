@@ -1,0 +1,64 @@
+{
+  "name": "Kaiden",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Epic",
+    "role": "Defense",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "16,350",
+    "atk": "837",
+    "def": "1,376",
+    "spd": "95",
+    "crate": "15",
+    "cdmg": "50",
+    "resist": "30",
+    "acc": "15"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Halberd’s Fall",
+      "description": "Attacks 1 enemy. Has a 15% chance of placing a [Provoke] debuff for turn.",
+      "books": [
+        "Level 2: Buff/Debuff Chance +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "DEF"
+      ],
+      "abilityname": "Shatter Sweep",
+      "description": "Attacks all enemies. Has a 75% chance of placing a 50% [Decrease ATK] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Favor of the Chamber",
+      "description": "Revives 2 random allies with 50% HP and places a 60% [Increase DEF] buff on them for 1 turn.",
+      "books": [
+        "Level 1: Cooldown -1",
+        "Level 2: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Kaiden.png"
+}

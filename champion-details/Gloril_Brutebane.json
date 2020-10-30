@@ -1,0 +1,75 @@
+{
+  "name": "Gloril Brutebane",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "16,185",
+    "atk": "1,244",
+    "def": "705",
+    "spd": "90",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Scale Hacker",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Prey Acquired",
+      "description": "Attacks 1 enemy. Damage increases by 5% for each debuff on the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Heroic Company",
+      "description": "Attacks 1 enemy. Places a 15% [Increase C.RATE] buff on all allies for 2 turns if this attack is critical.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in all Battles by 30.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Gloril_Brutebane.png"
+}

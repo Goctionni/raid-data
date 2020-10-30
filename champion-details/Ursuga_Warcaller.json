@@ -1,0 +1,82 @@
+{
+  "name": "Ursuga Warcaller",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Legendary",
+    "role": "HP",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "23,460",
+    "atk": "485",
+    "def": "1,531",
+    "spd": "108",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "50",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Gigantic Cudgel",
+      "description": "Attacks 1 enemy. Has a 45% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Barrel Through",
+      "description": "Attacks all enemies. Places a 30% [Decrease C.DMG] debuff and a 50% [Decrease ATK] debuff for 2 turns on targets whose ATK is higher than their DEF. Places a 30% [Decrease SPD] debuff and a 60% [Decrease DEF] debuff for 2 turns on targets whose ATK is equal to or lower than their DEF.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": [],
+      "abilityname": "Bottoms Up",
+      "description": "Places a 50% [Ally Protection] buff on all allies except this Champion for 2 turns. Places a 25% [Strengthen] buff on this Champion for 2 turns.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Golden Guard",
+      "description": "Decreases the damage all allies receive from critical hits by 30%. This Champion will receive that damage instead.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all battles by 33%.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Ursuga_Warcaller.png"
+}

@@ -1,0 +1,84 @@
+{
+  "name": "Saito",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "16,185",
+    "atk": "1,321",
+    "def": "1,178",
+    "spd": "102",
+    "crate": "15%",
+    "cdmg": "63%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Unbearable Assault",
+      "description": "Attacks 1 enemy 2 times. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns after the first hit. Places an extra hit if the [Decrease DEF] debuff is placed.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Enduring Warrior",
+      "description": "Attacks 1 enemy. Before attacking, places a 50% [Increase ATK] buff and a 30% [Increase C.DMG] buff on this Champion for 2 turns if this Champion’s DEF is higher than the target’s DEF. Decreases the cooldown of this Skill by 1 turn if the target has more than 50% HP after the attack.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Army Breaker",
+      "description": "Attacks 1 enemy, then attacks all enemies except the initial target if there are 3 or more enemies alive. lnflicts 20% more damage on the first hit if the the target has higher MAX HP than this Champion.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "Passive"
+      ],
+      "abilityname": "Vendetta",
+      "description": "Will ignore 7.5% of enemy DEF for each time this Champion attacks the same target enemy in consecutive attacks or Turns. Stacks up to 30%. The stack will be lost and reset if this Champion targets and attacks a different enemy. ",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in Dungeons by 30%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Saito.png"
+}

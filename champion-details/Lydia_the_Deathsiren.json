@@ -1,0 +1,86 @@
+{
+  "name": "Lydia the Deathsiren",
+  "class": {
+    "faction": "Dark Elves",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "20,805",
+    "atk": "903",
+    "def": "1,288",
+    "spd": "110",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "40",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Oppression",
+      "description": "Attacks 1 enemy. Has 75% chance of placinf a [Fear] debuff for 1 turn. Has 75% chance of increasing the duration of any [Poison Sensitivity] debuffs by 1 turn. [Passive Effect] Attacks enemy Champions with the Skill whenever they place a [Freeze], [Stun], [Fear], or [True Fear] debuff on an ally. The number of attacks increases according to how many debuffs are placed at that time; 1 attack for each [Freeze], [Stun], [Fear], or [True Fear] debuff placed. The first attac kwil target the attacker, while all extra hits wil attack random enemies. Can only attack each enemy once.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Siren's Wail",
+      "description": "Attacks all enemies. Has 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns. Also places a 25% [Strengthen] buff and a 30% [Increase SPD] buff on all allies for 2 turns",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Nullification",
+      "description": "Attacks 1 enemy 2 times. The first hit has a 75% chance of placing a 25% [Poison Sensitivity]debuff for 2 turns. The second hit has a 75% chance of placing a [Block Buffs] and [Block Cooldown Skills] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Buff/Debuff Chance +15%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 9,
+      "mincd": 7,
+      "dmgscaling": [],
+      "abilityname": "Death Hold",
+      "description": "Denies enemy revive attempts. This works even if this Champion is dead. If this Champion is alive when an enemy revive is denied, revives all dead allies with 50% HP and 50% Turn Meter. Grants an Extra Turn instead if there are no dead allies. If this Champion is dead when an enemy revive is denied, revives this Champion with 50% HP and 50% Turn Meter. This skill will ignore [Block Revive].",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally RESIST in Arena battles by 100.",
+      "books": []
+    }
+  ]
+}

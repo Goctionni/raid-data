@@ -1,0 +1,58 @@
+{
+  "name": "Headsman",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "10,740",
+    "atk": "1,354",
+    "def": "958",
+    "spd": "100",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Public Execution",
+      "description": "Attacks 1 enemy 2 times. Each hit has a 10% chance of placing a [Fear] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Headman’s Due",
+      "description": "Attacks all enemies. Has a 30% chance of placing a 100% [Heal Reduction] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["Passive"],
+      "abilityname": "Judged Guilty",
+      "description": "Inflicts 15% more damage to targets under [Heal Reduction] debuffs.",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Headsman.png"
+}

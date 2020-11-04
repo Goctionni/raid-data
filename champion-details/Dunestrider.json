@@ -1,0 +1,63 @@
+{
+  "name": "Dunestrider",
+  "class": {
+    "faction": "Barbarians",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "14,865",
+    "atk": "1,354",
+    "def": "683",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "10"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Desert Wind",
+      "description": "Attacks 1 enemy. Has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Nomad’s Stride",
+      "description": "Attacks 3 times at random. Each critical hit decreases the target’s Turn Meter by 10%. Will only decrease the Turn Meter once per target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Harsh Mercy",
+      "description": "Attacks all enemies, then attacks the enemy with the lowest HP. Has a 75% chance of placing a 100% [Heal Reduction] debuff on the enemy with the lowest HP for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dunestrider.png"
+}

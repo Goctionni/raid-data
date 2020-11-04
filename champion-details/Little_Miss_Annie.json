@@ -1,0 +1,85 @@
+{
+  "name": "Little Miss Annie",
+  "class": {
+    "faction": "Undead Hordes",
+    "rarity": "Legendary",
+    "role": "Attack",
+    "affinity": "Void"
+  },
+  "stats": {
+    "hp": "17,835",
+    "atk": "1,597",
+    "def": "793",
+    "spd": "102",
+    "crate": "15%",
+    "cdmg": "63%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Pretty Nails",
+      "description": "Attacks 1 enemy 3 times. Each hit has a 50% chance of placing a 100% [Heal Reduction]debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Buff/Debuff Chance +5%",
+        "Level 4: Buff/Debuff Chance +10%",
+        "Level 5: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 2,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Hollow Doll",
+      "description": "Attacks 1 enemy 2 times. Places a 50% [Increase ATK] buff on this Champion for 2 turns before attacking if the target is under a [Shield] buff. Will ignore 25% of the target's DEF if the target is under a [Shield] buff. Places a [Perfect Veil] buff on this Champion for 2 turns if this attack kills an enemy. Fills this Champion's Turn Meter by 30% if this attack does not kill the target.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+        "Level 5: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 6,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Playdate",
+      "description": "Attacks 1 enemy. Will ignore 25% of the target's DEF if the target has higher DEF than this Champion. Decreases the target's MAX HP by 25% of the damage inflicted if the target has higher MAX HP than this Champion. Will repeat attack a second time if the target has both higher DEF and higher MAX HP than this Champion.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Cooldown -1",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Toys Don't Die",
+      "description": "When revived, attacks the enemy that killed this Champion with the default Skil. Also fill this Champion's Turn Meter by 25% and places a [Shield] buff on this Champion equal to 50% of their MAX HP for 2 turns.",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Magical Heart",
+      "description": "Each hit has a 50% chance of decreasing the target's Turn Meter by 5% and a 100% chance of decreasing the target's MAX HP by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuffs. Also heals this Champion by 5% of the damage inflicted when attacking enemies under [Heal Reduction] debuff. [Will not heal from damage inflicted by Masteries.]",
+      "books": []
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally ATK in all Battles by 33%.",
+      "books": []
+    }
+  ]
+}

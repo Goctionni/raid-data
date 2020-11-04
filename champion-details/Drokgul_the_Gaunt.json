@@ -1,0 +1,63 @@
+{
+  "name": "Drokgul the Gaunt",
+  "class": {
+    "faction": "Ogryn Tribes",
+    "rarity": "Legendary",
+    "role": "Support",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "22,965",
+    "atk": "991",
+    "def": "1,057",
+    "spd": "107",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "40",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "HP"
+      ],
+      "abilityname": "Bonebreak Boulder",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a [Stun] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 3,
+      "dmgscaling": [],
+      "abilityname": "Eldritch Ground",
+      "description": "Places a 50% [Increase ATK] buff and a 60% [Increase DEF] buff on all allies for 2 turns. Also places a [Block Damage] buff for 1 turn on allies with less than 30% HP.",
+      "books": [
+        "Level 2: Cooldown -1",
+        "Level 3: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Runestone Blessing",
+      "description": "[Active Effect] Places a [Shield] buff equal to 15% of this Champion’s MAX HP on all allies for 3 turns.",
+      "books": [
+        "[Passive Effect] Heals each ally by 15% of this Champion’s MAX HP whenever a [Shield] buff placed by this Skill expires, is removed, or is broken by an enemy attack. Allies whose [Shield] buffs are broken will also counterattack the enemy that breaks the [Shield]. When a [Shield] is broken, the heal occurs instantly before any remaining damage from the Shield-breaking attack is taken.",
+        "Level 2: Shield +5%",
+        "Level 3: Shield +5%",
+        "Level 4: Shield +10%",
+        "Level 5: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Drokgul_the_Gaunt.png"
+}

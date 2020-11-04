@@ -1,0 +1,72 @@
+{
+  "name": "Dolor Lorekeeper",
+  "class": {
+    "faction": "Dwarves",
+    "rarity": "Rare",
+    "role": "Support",
+    "affinity": "Force"
+  },
+  "stats": {
+    "hp": "16,845",
+    "atk": "1,035",
+    "def": "870",
+    "spd": "98",
+    "crate": "15%",
+    "cdmg": "50%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Banisher Axe",
+      "description": "Attacks 1 enemy. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +5%",
+        "Level 7: Buff/Debuff Chance +5%",
+        "Level 8: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": [
+        "ATK"
+      ],
+      "abilityname": "Stern Punishment",
+      "description": "Level 2: Damage +5%",
+      "books": [
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": [],
+      "abilityname": "Forebear’s Boon",
+      "description": "Places a 15% [Continuous Heal] buff on all allies for 2 turns. Also places a [Block Debuffs] buff on the target ally for 1 turn if they have less than 100% HP.",
+      "books": [
+        "Level 2: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": [],
+      "abilityname": "Aura",
+      "description": "Increases Ally HP in all Battles by 15%",
+      "books": []
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Dolor_Lorekeeper.png"
+}

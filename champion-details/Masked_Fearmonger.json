@@ -1,0 +1,59 @@
+{
+  "name": "Masked Fearmonger",
+  "class": {
+    "faction": "Banner Lords",
+    "rarity": "Epic",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "13,215",
+    "atk": "1,398",
+    "def": "1,024",
+    "spd": "97",
+    "crate": "15%",
+    "cdmg": "60%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Nightmare",
+      "description": "Attacks 1 enemy 2 times. Each hit decreases the target's Turn Meter by 7.5% if the target is under a [Fear] or a [True Fear]debuff. Reduce the cooldown of this Champion's Taste of Despair [P] skill by 1 turn if this attack kills an enemy.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 3,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Haunted Machete",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [Fear] debuff for 1 turn and a 75% chance of placing a 30% [Decrease SPD] debuff for 2 turns. Has a 75% chance of placing a [True Fear] debuff on 2 enemies for 1 turn if this attack kills an enemy. One [True Fear] debuff will be placed on the enemy with the lowest Turn Meter, while one will be placed on the enemy with the highest Turn Meter.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Buff/Debuff Chance +10%",
+        "Level 4: Damage +10%",
+        "Level 5: Buff/Debuff Chance +15%"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Well-Used Axe",
+      "description": "Attacks 1 enemy. Will ignore 35% of target's DEF if the target is under a [Fear] or a [True Fear]debuff. Places a 30% [Increase SPD] buff for 2 turnes, a [Revive On Death] buff for 2 turns, and a [Block Debuffs] buff for 1 turn on this Champion if this attack kills an enemy.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Cooldown -1",
+      ]
+    }
+  ]
+}

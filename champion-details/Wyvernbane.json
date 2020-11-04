@@ -1,0 +1,65 @@
+{
+  "name": "Wyvernbane",
+  "class": {
+    "faction": "Orcs",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Spirit"
+  },
+  "stats": {
+    "hp": "12,555",
+    "atk": "1,288",
+    "def": "903",
+    "spd": "94",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Hobble Pierce",
+      "description": "Attacks 1 enemy. Has a 20% chance of placing a 15% [Decrease SPD] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Setback",
+      "description": "Attacks 1 enemy. Has a 35% chance of decreasing the target’s Turn Meter by 20%",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Buff/Debuff Chance +5%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Level 7: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Cursefire Spear",
+      "description": "Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 2 turns.",
+      "books": [
+        "Level 2: Damage +10%",
+        "Level 3: Damage +10%",
+        "Level 4: Buff/Debuff Chance +5%",
+        "Level 5: Buff/Debuff Chance +10%",
+        "Level 6: Buff/Debuff Chance +10%",
+        "Levle 7: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Wyvernbane.png"
+}

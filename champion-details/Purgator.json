@@ -1,0 +1,64 @@
+{
+  "name": "Purgator",
+  "class": {
+    "faction": "The Sacred Order",
+    "rarity": "Rare",
+    "role": "Attack",
+    "affinity": "Magic"
+  },
+  "stats": {
+    "hp": "13,380",
+    "atk": "1,409",
+    "def": "727",
+    "spd": "94",
+    "crate": "15%",
+    "cdmg": "57%",
+    "resist": "30",
+    "acc": "0"
+  },
+  "skills": [
+    {
+      "cd": 0,
+      "mincd": 0,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Doom lnescapable",
+      "description": "Attacks 1 enemy 2 times. Will ignore [Shield] buffs.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%"
+      ]
+    },
+    {
+      "cd": 4,
+      "mincd": 3,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Great Purge",
+      "description": "Attacks all enemies. Inflicts 10% extra C.DMG for each debuff on this Champion. Stacks up to 50%.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Cooldown -1"
+      ]
+    },
+    {
+      "cd": 5,
+      "mincd": 4,
+      "dmgscaling": ["ATK"],
+      "abilityname": "Humble the Heathen",
+      "description": "Attacks 1 enemy. Decreases the target’s MAX HP by 20% of the damage inflicted.",
+      "books": [
+        "Level 2: Damage +5%",
+        "Level 3: Damage +5%",
+        "Level 4: Damage +5%",
+        "Level 5: Damage +5%",
+        "Level 6: Damage +5%",
+        "Level 7: Cooldown -1"
+      ]
+    }
+  ],
+  "avatarUrl": "https://goctionni.github.io/raid-data/images/avatar/Purgator.png"
+}

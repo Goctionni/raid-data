@@ -11,10 +11,10 @@
     "atk": "1,079",
     "def": "1,244",
     "spd": "100",
-    "crate": "RATE",
-    "cdmg": "15",
+    "crate": "15%",
+    "cdmg": "50%",
     "resist": "50",
-    "acc": "50"
+    "acc": "10"
   },
   "skills": [
     {
@@ -36,7 +36,7 @@
       "mincd": 2,
       "dmgscaling": [],
       "abilityname": "Druidic Boon",
-      "description": "Removes all debuffs from an ally, then heals them by 30% of their MAX HP and places a [Shield] buff on the target equal to 20% of their MAX HP for 2 turns.",
+      "description": "Removes all debuffs except [Poison] debuffs from an ally, then heals them by 30% of their MAX HP and places a [Shield] buff on the target equal to 20% of their MAX HP for 2 turns.",
       "books": [
         "Level 2: Heal +5%",
         "Level 3: Shield +5%",
@@ -50,7 +50,7 @@
       "mincd": 3,
       "dmgscaling": [],
       "abilityname": "Cloud of Spores",
-      "description": "Places three 5% [Poison] debuffs on all allies for 3 turns. These debuffs cannot be resisted or blocked. Also has an 80% chance of placing a [Block Buffs] debuff on all enemies for 2 turns.",
+      "description": "Places three 2.5% [Poison] debuffs on all allies for 3 turns. These debuffs cannot be resisted or blocked. Also has an 80% chance of placing a [Block Buffs] debuff on all enemies for 2 turns.",
       "books": [
         "Level 2: Buff/Debuff Chance +5%",
         "Level 3: Buff/Debuff Chance +5%",
